@@ -1,0 +1,751 @@
+Return-Path: <msprvs1=18562L3ENWJg1=bounces-261047@sparkpostmail2.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id oLirBbkQj19U3AQA39JRmg
+	(envelope-from <msprvs1=18562L3ENWJg1=bounces-261047@sparkpostmail2.com>)
+	for <admin@exploreautoparts.com>; Tue, 20 Oct 2020 16:30:49 +0000
+Return-path: <msprvs1=18562L3ENWJg1=bounces-261047@sparkpostmail2.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Tue, 20 Oct 2020 16:30:49 +0000
+Received: from mta-215-154.sparkpostmail.com ([147.253.215.154]:58322)
+	by sh004.bigrock.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <msprvs1=18562L3ENWJg1=bounces-261047@sparkpostmail2.com>)
+	id 1kUuX6-001LDk-7q
+	for admin@exploreautoparts.com; Tue, 20 Oct 2020 16:30:49 +0000
+X-MSFBL: 6IzfVJ7FqcPK7VuODScdW8L4sgEntGWMT+t8/WcLMIA=|eyJjdXN0b21lcl9pZCI
+	6IjI2MTA0NyIsInN1YmFjY291bnRfaWQiOiIwIiwiciI6ImFkbWluQGV4cGxvcmV
+	hdXRvcGFydHMuY29tIiwibWVzc2FnZV9pZCI6IjAwMjE4OTEwOGY1ZmJjYjVmNjZ
+	iIiwidGVuYW50X2lkIjoic3BjIn0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=e0.jetpack.com;
+	s=scph0419; t=1603211401; i=@e0.jetpack.com;
+	bh=lZNISHtag3U4jcKK1l8ePXbSM9a66yTuzxWAYb1ff08=;
+	h=To:Message-ID:Date:Content-Type:Subject:From;
+	b=zkhKRuvxEWzGoJFzocbP2ROZC6B5k8XTCK5mcdEDro1FFZpLhP8qsLjHZg2AjDOIl
+	 FkgyNlTDht5AAypxJ/eSUnAmoUztNP4BqnXg13amt9/9r3pEs3MOfUMDngYw8z1PeX
+	 Bn1COUMPOYWLWQmYYeFIuZ8gsGgIEEuiR56E3dtI=
+To: admin@exploreautoparts.com
+Message-ID: <6F.B6.46524.9801F8F5@ag.mta1vrest.cc.prd.sparkpost>
+Date: Tue, 20 Oct 2020 16:30:01 +0000
+Content-Type: multipart/alternative; boundary="_----WjSPl9vtSH0yMDbcUG6+Eg===_9E/B6-46524-9801F8F5"
+MIME-Version: 1.0
+Reply-To: donotreply@e0.jetpack.com
+Subject: Important update about embedding Facebook and Instagram posts on your site
+X-Campaign-ID: 1634223
+From: "Jetpack" <donotreply@e0.jetpack.com>
+X-Message-ID: 34c21637ea814aaca6c6dc62d093cfe6
+X-Feedback-ID: 2256067:1634223:18884:iterable
+Feedback-ID: 2256067:1634223:18884:iterable
+List-Unsubscribe: <mailto:unsubscribe@unsub.spmta.com?subject=unsubscribe:gXE4oHkHRBNz7mBhDGlG8Dw1CzC601JHubgs4AoB7g0~|eyAicmNwdF90byI6ICJhZG1pbkBleHBsb3JlYXV0b3BhcnRzLmNvbSIsICJ0ZW5hbnRfaWQiOiAic3BjIiwgImN1c3RvbWVyX2lkIjogIjI2MTA0NyIsICJzdWJhY2NvdW50X2lkIjogIjAiLCAibWVzc2FnZV9pZCI6ICIwMDIxODkxMDhmNWZiY2I1ZjY2YiIgfQ~~>
+List-Id: <spc.261047.0.sparkpostmail.com>
+X-Spam-Status: No, score=2.2
+X-Spam-Score: 22
+X-Spam-Bar: ++
+X-Spam-Flag: NO
+
+--_----WjSPl9vtSH0yMDbcUG6+Eg===_9E/B6-46524-9801F8F5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+
+Use Jetpack for easy embeds =0A=0AView this email in your browser =0A<http:=
+//links.jp.a8cmail.com/e/evib=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D=
+34c21637ea814aaca6c6dc62d093cfe6&_e=3Dz69k3knHadFP_02vJ5TZ0YFBJn-JRFmJ8BFrV=
+u-RBtBPLHFkbLR45s8jmMSTUP_ekiQ-KyfKmvoY8z2mC1YzBnG-cLLvbzy8xGhLjmMSCEHR_ITw=
+VS010b8o8heyQR8B>=0A=C2=A0=0A=C2=A0  <https://jetpack.com/> =C2=A0 =0AHi th=
+ere,=0A=0A=C2=A0=0A=0AFacebook and Instagram are ending support for their o=
+Embed API =0A<https://developers.facebook.com/blog/post/2020/08/04/Introduc=
+ing-graph-v8-marketing-api-v8/>=0A on October 24. We=E2=80=99re reaching ou=
+t to let you know that Jetpack is taking care =0Aof this issue for you so t=
+hat your embedded Facebook and Instagram posts will =0Acontinue to display =
+correctly on your site.=0A=0A=C2=A0=0A=0AWe understand that many of you tha=
+t run websites aren=E2=80=99t developers, so we =0Awanted to find a way to =
+simplify this transition for you. There=E2=80=99s no need to =0Aupdate any =
+settings. Just by having Jetpack 9.0 or later installed, you can =0Acontinu=
+e to embed links to Facebook and Instagram like usual. To update your =0Ave=
+rsion of Jetpack,click here =0A<https://exploreautoparts.com/wp-admin/plugi=
+ns.php=3Fs=3Djetpack%20by%20WordPress.com&plugin_status=3Dupgrade>=0A.=0A=
+=0A=C2=A0=0A=0AAt Jetpack, our goal is to give you simple, yet powerful too=
+ls that improve =0Ayour site with as little work as possible. If you=E2=80=
+=99re looking for peace of mind =0Awith automated backups and malware scann=
+ing that protect your site with minimal =0Aeffort on your end, check out th=
+enew=C2=A0Jetpack Security. =0A<https://jetpack.com/features/security/>=0A=
+=0A=C2=A0=0A=0ATake care,=0A=0A=C2=A0=0A=0ARob=0A=0AJetpack=0A=0ARestore yo=
+ur site from anywhere.=0A=0A=0AGet one-click restores in the WordPress mobi=
+le app.=0A=0A=0A =0A<https://itunes.apple.com/app/apple-store/id335703880=
+=3Fpt=3D299112&amp;ct=3D1634223> =0A =0A<https://play.google.com/store/apps=
+/details=3Fid=3Dorg.wordpress.android&amp;referrer=3Dutm_source=3DIterable&=
+amp;utm_medium=3Demail&amp;utm_campaign=3D1634223>=0A=0A=0A=0A =0A<https://=
+itunes.apple.com/app/apple-store/id335703880=3Fpt=3D299112&amp;ct=3D1634223=
+> =0A =0A<https://play.google.com/store/apps/details=3Fid=3Dorg.wordpress.a=
+ndroid&amp;referrer=3Dutm_source=3DIterable&amp;utm_medium=3Demail&amp;utm_=
+campaign=3D1634223>=0A=0A=0AFollow us=0A=0A=0A =0A<https://www.facebook.com=
+/jetpackme/=3Futm_campaign=3D&utm_template=3D1449655&utm_source=3Diterable&=
+utm_medium=3Demail>=0A =0A<https://twitter.com/jetpack=3Flang=3Den&utm_camp=
+aign=3D&utm_template=3D1449655&utm_source=3Diterable&utm_medium=3Demail>=0A=
+ <https://www.linkedin.com/company/jetpack-for-wordpress/>  =0A<https://jet=
+pack.com/> =C2=A0 =0AAutomattic Inc. | 60 29th St. #343, San Francisco, CA =
+94110=0A=0ADon't want these emails=3F Unsubscribe =0A<http://links.jp.a8cma=
+il.com/e/eh=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6=
+c6dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh8hZqXXPst19DhWkI7V7KY1wdZAIznHTcBQ=
+xpXmXzcnzFHJ2UU8wgdMuIq8u4_bMhls6v-0N419soZ4ReCBVJuByeunnvpIqNAhNGqSpMRBQQT=
+kNAVyEtYvSNywDSazR5Isq9X1Uc_RZB3XILVlYGwlilooql1PGAuKgECvYHv-wdP-G1qy7E-zfy=
+BctI_RW854XMbkUZwL1GQheGeb5-47tNvLKDJ9c22IRgeyAK5iUyvAYUp1oDdjMwdLUa2rngFPI=
+j4XafgFU6alcd9vTQaVBGEhQZ_kQbXd5FjH4H0wJfZYzzm0VnX5b_xZTkbsKbVMkyWaIYWNk4to=
+FYJJrLJp2OYZS3eBI1iyblvGPwrt->=0A.=0A
+--_----WjSPl9vtSH0yMDbcUG6+Eg===_9E/B6-46524-9801F8F5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.=
+w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn=
+:schemas-microsoft-com:office:office" style=3D"line-height: inherit;"> <hea=
+d> <!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:Pixels=
+PerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]--> <=
+meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"> <m=
+eta name=3D"viewport" content=3D"width=3Ddevice-width"> <!--[if !mso]><!-->=
+ <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"> <!--<![endif]-=
+-> <title></title> <!--[if !mso]><!--> <link href=3D"https://fonts.googleap=
+is.com/css=3Ffamily=3DBitter" rel=3D"stylesheet" type=3D"text/css"> <link h=
+ref=3D"https://fonts.googleapis.com/css=3Ffamily=3DDroid+Serif" rel=3D"styl=
+esheet" type=3D"text/css"> <link href=3D"https://fonts.googleapis.com/css=
+=3Ffamily=3DLato" rel=3D"stylesheet" type=3D"text/css"> <link href=3D"https=
+://fonts.googleapis.com/css=3Ffamily=3DSource+Sans+Pro" rel=3D"stylesheet" =
+type=3D"text/css"> <link href=3D"https://fonts.googleapis.com/css=3Ffamily=
+=3DMontserrat" rel=3D"stylesheet" type=3D"text/css"> <link href=3D"https://=
+fonts.googleapis.com/css=3Ffamily=3DUbuntu" rel=3D"stylesheet" type=3D"text=
+/css"> <!--<![endif]--> <style type=3D"text/css">body{margin:0;padding:0}ta=
+ble,td,tr{vertical-align:top;border-collapse:collapse}*{line-height:inherit=
+}a[x-apple-data-detectors=3Dtrue]{color:inherit!important;text-decoration:n=
+one!important}</style> <style type=3D"text/css" id=3D"media-query">@media(m=
+ax-width:620px){.block-grid,.col{min-width:320px!important;max-width:100%!i=
+mportant;display:block!important}.block-grid{width:100%!important}.col{widt=
+h:100%!important}.col>div{margin:0 auto}img.fullwidth,img.fullwidthOnMobile=
+{max-width:100%!important}.no-stack .col{min-width:0!important;display:tabl=
+e-cell!important}.no-stack.two-up .col{width:50%!important}.no-stack .col.n=
+um2{width:16.6%!important}.no-stack .col.num3{width:25%!important}.no-stack=
+ .col.num4{width:33%!important}.no-stack .col.num5{width:41.6%!important}.n=
+o-stack .col.num6{width:50%!important}.no-stack .col.num7{width:58.3%!impor=
+tant}.no-stack .col.num8{width:66.6%!important}.no-stack .col.num9{width:75=
+%!important}.no-stack .col.num10{width:83.3%!important}.video-block{max-wid=
+th:none!important}.mobile_hide{min-height:0;max-height:0;max-width:0;displa=
+y:none;overflow:hidden;font-size:0}.desktop_hide{display:block!important;ma=
+x-height:none!important}}</style> </head> <body class=3D"clean-body" style=
+=3D"line-height: inherit; margin: 0; padding: 0; -webkit-text-size-adjust: =
+100%; background-color: #FFFFFF;">=0D=0A<div style=3D"color:transparent;vis=
+ibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;ma=
+rgin:0px;padding:0px;border-width:0px!important;display:none!important;line=
+-height:0px!important;"><img border=3D"0" width=3D"1" height=3D"1" src=3D"h=
+ttp://go.sparkpostmail2.com/q/dDA6KaGa_iTjQXyCr8Glmw~~/AAP7twA~/RgRhcZWJPVc=
+Dc3BjQgoAIYkQj1-8tfZrUhphZG1pbkBleHBsb3JlYXV0b3BhcnRzLmNvbVgEAAAAAA~~"/></d=
+iv>=0D=0A<span style=3D"color:transparent;visibility:hidden;display:none;op=
+acity:0;height:0;width:0;font-size:0;">Use Jetpack for easy embeds</span><i=
+mg src=3D"http://links.jp.a8cmail.com/e/eo=3F_t=3D9c23e86f01214d1c94181325e=
+051330d&amp;_m=3D34c21637ea814aaca6c6dc62d093cfe6&amp;_e=3Dz69k3knHadFP_02v=
+J5TZ0YFBJn-JRFmJ8BFrVu-RBtDdNOdj-jRmbuYGh40WRUZAxSN5qoYErjbFsexSIPtcWr1X3J2=
+MVZlKdhqFzsH33PTBR09PRbYNttkTug5YPcfDd47Mv3yta1NySU50CTmY3pfKF5AevC9f6nhDFp=
+lGmRPviQdU9SI-K_maqtD4h3iS" style=3D"border:0;width:1px;height:1px;border-w=
+idth:0px!important;display:none!important;line-height:0!important;" width=
+=3D"1" height=3D"1"/> <!--[if IE]><div class=3D"ie-browser"><![endif]--> <t=
+able class=3D"nl-container" style=3D"line-height: inherit; table-layout: fi=
+xed; vertical-align: top; min-width: 320px; border-spacing: 0; border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-col=
+or: #FFFFFF; width: 100%;" cellpadding=3D"0" cellspacing=3D"0" role=3D"pres=
+entation" width=3D"100%" bgcolor=3D"#FFFFFF" valign=3D"top"> <tbody style=
+=3D"line-height: inherit;"> <tr style=3D"line-height: inherit; border-colla=
+pse: collapse; vertical-align: top;" valign=3D"top"> <td style=3D"line-heig=
+ht: inherit; border-collapse: collapse; word-break: break-word; vertical-al=
+ign: top;" valign=3D"top"> <!--[if (mso)|(IE)]><table width=3D"100%" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td align=3D"center" style=
+=3D"background-color:#FFFFFF"><![endif]--> <div style=3D"line-height: inher=
+it; background-color: transparent; overflow: hidden;"> <div class=3D"block-=
+grid " style=3D"line-height: inherit; min-width: 320px; max-width: 600px; o=
+verflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Ma=
+rgin: 0 auto; width: 100%; background-color: transparent;"> <div style=3D"l=
+ine-height: inherit; border-collapse: collapse; display: table; width: 100%=
+; background-color: transparent;"> <!--[if (mso)|(IE)]><table width=3D"100%=
+" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-colo=
+r:transparent;"><tr><td align=3D"center"><table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width"=
+ style=3D"background-color:transparent"><![endif]--> <!--[if (mso)|(IE)]><t=
+d align=3D"center" width=3D"600" style=3D"background-color:transparent;widt=
+h:600px; border-top: 0px solid transparent; border-left: 0px solid transpar=
+ent; border-bottom: 0px solid transparent; border-right: 0px solid transpar=
+ent;" valign=3D"top"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"><tr><td style=3D"padding-right: 0px; padding-left: 0px; pa=
+dding-top:5px; padding-bottom:5px;"><![endif]--> <div class=3D"col num12" s=
+tyle=3D"line-height: inherit; min-width: 320px; max-width: 600px; display: =
+table-cell; vertical-align: top; width: 600px;"> <div style=3D"line-height:=
+ inherit; width: 100% !important;"> <!--[if (!mso)&(!IE)]><!--> <div style=
+=3D"line-height: inherit; border-top: 0px solid transparent; border-left: 0=
+px solid transparent; border-bottom: 0px solid transparent; border-right: 0=
+px solid transparent; padding-top: 5px; padding-bottom: 5px; padding-right:=
+ 0px; padding-left: 0px;"> <!--<![endif]--> <!--[if mso]><table width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"paddi=
+ng-right: 5px; padding-left: 5px; padding-top: 5px; padding-bottom: 5px; fo=
+nt-family: Arial, sans-serif"><![endif]--> <div style=3D"color: #555555; fo=
+nt-family: Helvetica Neue, Helvetica, Arial, sans-serif; line-height: 1.2; =
+padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5p=
+x;"> <div style=3D"font-family: Helvetica Neue, Helvetica, Arial, sans-seri=
+f; font-size: 12px; line-height: 1.2; color: #555555; mso-line-height-alt: =
+14px;"> <p style=3D"font-size: 12px; line-height: 1.2; text-align: center; =
+word-break: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans=
+-serif; mso-line-height-alt: 14px; margin: 0;"><span style=3D"line-height: =
+inherit; color: #808080; font-size: 12px;"><a style=3D"line-height: inherit=
+; color: #808080;" href=3D"http://links.jp.a8cmail.com/e/evib=3F_t=3D9c23e8=
+6f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3Dz69k3=
+knHadFP_02vJ5TZ0YFBJn-JRFmJ8BFrVu-RBtBPLHFkbLR45s8jmMSTUP_ekiQ-KyfKmvoY8z2m=
+C1YzBnG-cLLvbzy8xGhLjmMSCEHR_ITwVS010b8o8heyQR8B" target=3D"_blank" rel=3D"=
+noopener">View this email in your browser</a>&nbsp;</span></p> </div> </div=
+> <!--[if mso]></td></tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--> <=
+/div> <!--<![endif]--> </div> </div> <!--[if (mso)|(IE)]></td></tr></table>=
+<![endif]--> <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![end=
+if]--> </div> </div> </div> <div style=3D"line-height: inherit; background-=
+color: #069e08; overflow: hidden;"> <div class=3D"block-grid " style=3D"lin=
+e-height: inherit; min-width: 320px; max-width: 600px; overflow-wrap: break=
+-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; width=
+: 100%; background-color: #069e08;"> <div style=3D"line-height: inherit; bo=
+rder-collapse: collapse; display: table; width: 100%; background-color: #06=
+9e08;"> <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" style=3D"background-color:#069e08;"><tr><td align=
+=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"width:600px"><tr class=3D"layout-full-width" style=3D"background-color:=
+#069e08"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600=
+" style=3D"background-color:#069e08;width:600px; border-top: 0px solid tran=
+sparent; border-left: 0px solid transparent; border-bottom: 0px solid trans=
+parent; border-right: 0px solid transparent;" valign=3D"top"><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D=
+"padding-right: 0px; padding-left: 0px; padding-top:0px; padding-bottom:0px=
+;"><![endif]--> <div class=3D"col num12" style=3D"line-height: inherit; min=
+-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; =
+width: 600px;"> <div style=3D"line-height: inherit; width: 100% !important;=
+"> <!--[if (!mso)&(!IE)]><!--> <div style=3D"line-height: inherit; border-t=
+op: 0px solid transparent; border-left: 0px solid transparent; border-botto=
+m: 0px solid transparent; border-right: 0px solid transparent; padding-top:=
+ 0px; padding-bottom: 0px; padding-right: 0px; padding-left: 0px;"> <!--<![=
+endif]--> <div class=3D"img-container center fixedwidth" align=3D"center" s=
+tyle=3D"line-height: inherit; padding-right: 35px; padding-left: 35px;"> <!=
+--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr style=3D"line-height:0px"><td style=3D"padding-right: 35px;paddi=
+ng-left: 35px;" align=3D"center"><![endif]--> <div style=3D"font-size: 1px;=
+ line-height: 35px;">&nbsp;</div><a href=3D"http://links.jp.a8cmail.com/u/c=
+lick=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d=
+093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh7cYOFgCL2uRB0wkuDqljKp8qBVCjhoFF0iDwuEZtL=
+Da3zN9DTsdtPgsSdM2jRNVRVJGAi_ZYjUe-LUJxwmPRBRJhFR0pJN2bSxUT3q0mcO_HaDUL8FHf=
+fZe8ugbud0zqKj0sArXKcRHOj9J6_BaCiYyGo2Xde028n6lx6dNR-VOwZc_ddzMT2DVdsRbvDba=
+0a7COXKJv1uelLkHIqQpAf1OyHNeaqAgcoMq-T0Fwm7mBw3is5BZq3z-vJ1peeREEZb1PaOMYdD=
+qd7OogiFk3kga6vpTreesbxszfQIOZE_CxUG4DQ70YqQIvMcR7TAieOh56ynx4Cyt43CpBseDXp=
+AF55_UB8b6P2z44M3DK2-S" target=3D"_blank" style=3D"line-height: inherit; ou=
+tline: none;" tabindex=3D"-1"> <img class=3D"center fixedwidth" align=3D"ce=
+nter" border=3D"0" src=3D"https://d15k2d11r6t6rl.cloudfront.net/public/user=
+s/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/9c23e86f01214d1c94181325=
+e051330d/Jetpack_Horizontal_white.png" alt=3D"Jetpack Logo" title=3D"Jetpac=
+k Logo" style=3D"line-height: inherit; text-decoration: none; -ms-interpola=
+tion-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 210px;=
+ display: block;" width=3D"210"></a> <div style=3D"font-size: 1px; line-hei=
+ght: 35px;">&nbsp;</div> <!--[if mso]></td></tr></table><![endif]--> </div>=
+ <!--[if (!mso)&(!IE)]><!--> </div> <!--<![endif]--> </div> </div> <!--[if =
+(mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td></tr></=
+table></td></tr></table><![endif]--> </div> </div> </div> <div style=3D"lin=
+e-height: inherit; background-color: transparent; overflow: hidden;"> <div =
+class=3D"block-grid " style=3D"line-height: inherit; min-width: 320px; max-=
+width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break:=
+ break-word; Margin: 0 auto; width: 100%; background-color: transparent;"> =
+<div style=3D"line-height: inherit; border-collapse: collapse; display: tab=
+le; width: 100%; background-color: transparent;"> <!--[if (mso)|(IE)]><tabl=
+e width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"=
+background-color:transparent;"><tr><td align=3D"center"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:600px"><tr class=3D"la=
+yout-full-width" style=3D"background-color:transparent"><![endif]--> <!--[i=
+f (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D"background-color:=
+transparent;width:600px; border-top: 0px solid transparent; border-left: 0p=
+x solid transparent; border-bottom: 0px solid transparent; border-right: 0p=
+x solid transparent;" valign=3D"top"><table width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 0px; paddi=
+ng-left: 0px; padding-top:15px; padding-bottom:5px;"><![endif]--> <div clas=
+s=3D"col num12" style=3D"line-height: inherit; min-width: 320px; max-width:=
+ 600px; display: table-cell; vertical-align: top; width: 600px;"> <div styl=
+e=3D"line-height: inherit; width: 100% !important;"> <!--[if (!mso)&(!IE)]>=
+<!--> <div style=3D"line-height: inherit; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-bottom: 0px solid transparent;=
+ border-right: 0px solid transparent; padding-top: 15px; padding-bottom: 5p=
+x; padding-right: 0px; padding-left: 0px;"> <!--<![endif]--> <!--[if mso]><=
+table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><=
+td style=3D"padding-right: 10px; padding-left: 10px; padding-top: 30px; pad=
+ding-bottom: 35px; font-family: Arial, sans-serif"><![endif]--> <div style=
+=3D"color: #555555; font-family: Helvetica Neue, Helvetica, Arial, sans-ser=
+if; line-height: 1.5; padding-top: 30px; padding-right: 10px; padding-botto=
+m: 35px; padding-left: 10px;"> <div style=3D"font-family: Helvetica Neue, H=
+elvetica, Arial, sans-serif; font-size: 12px; line-height: 1.5; color: #555=
+555; mso-line-height-alt: 18px;"> <p style=3D"line-height: 1.5; word-break:=
+ break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size: 16px; mso-line-height-alt: 24px; margin: 0;"><span style=3D"line-he=
+ight: inherit; font-size: 16px;">Hi there,</span></p> <p style=3D"line-heig=
+ht: 1.5; word-break: break-word; font-family: Helvetica Neue, Helvetica, Ar=
+ial, sans-serif; mso-line-height-alt: 18px; margin: 0;">&nbsp;</p> <p style=
+=3D"line-height: 1.5; word-break: break-word; font-family: Helvetica Neue, =
+Helvetica, Arial, sans-serif; font-size: 16px; mso-line-height-alt: 24px; m=
+argin: 0;"><span style=3D"line-height: inherit; font-size: 16px;">Facebook =
+and Instagram are <a style=3D"line-height: inherit; text-decoration: underl=
+ine; color: #008710;" href=3D"http://links.jp.a8cmail.com/u/click=3F_t=3D9c=
+23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3D5=
+ebrhyrQpS8UWoZS7AEkhygLcDNJkcjKmmRit9cHQwywBeZbRkZUJuOFKxH3VvC6_MSUVZRDWQbc=
+0bZLY9OAyV7PpdjP5IHbPg2yRlxrGezXru8yP0pl1Lr22cWkKmMfTIC-wyowDCBg7-e0h6vagta=
+rHnPpVLMObIOSZoytRfJCzO_OiyMyghyXxZkL1bQ-hru6NpdnZ4keAWbUjo8X2_fYIlbR4Fao6I=
+vQYF9duY7x-dqS_D0HeZ-3U-7fL4A9znkD9J6FJTcTvaEFAvuhYa-_lCv4VAOPklPntkE2DSAxm=
+1uPN7unfrkhP0rkqvPQgWjty-WK4p2_Of_b811jlejQKfX3kFERf_fgu8Qi8GHbq7P2a42sYH-9=
+HT0ICYZqx1RLuzoDDVz8HszQ7dsPmHdnPqVMNOhcGnbrUvHpVansic1UWNeISw-Iww-jHfZikKJ=
+i3Oq77yPrXmA9Ug6bOw%3D%3D" target=3D"_blank" rel=3D"noopener">ending suppor=
+t for their oEmbed API</a> on October 24. We=E2=80=99re reaching out to let=
+ you know that Jetpack is taking care of this issue for you so that your em=
+bedded Facebook and Instagram posts will continue to display correctly on y=
+our site.</span></p> <p style=3D"line-height: 1.5; word-break: break-word; =
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-=
+alt: 18px; margin: 0;">&nbsp;</p> <p style=3D"line-height: 1.5; word-break:=
+ break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; fon=
+t-size: 16px; mso-line-height-alt: 24px; margin: 0;"><span style=3D"line-he=
+ight: inherit; font-size: 16px;">We understand that many of you that run we=
+bsites aren=E2=80=99t developers, so we wanted to find a way to simplify th=
+is transition for you. There=E2=80=99s no need to update any settings. Just=
+ by having Jetpack 9.0 or later installed, you can continue to embed links =
+to Facebook and Instagram like usual. To update your version of Jetpack, <a=
+ style=3D"line-height: inherit; text-decoration: underline; color: #008710;=
+" title=3D"Update to the latest version of Jetpack" href=3D"http://links.jp=
+.a8cmail.com/u/click=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637=
+ea814aaca6c6dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh6u9OJfP-XK_KfVDmfH-rRegV=
+kBceSn4SX7mmrYuDv0I-izFi2k7PogCQPjZUkwIvds0WZpcoy18osrE_vZ3fiqYAs8bzf9cbMms=
+qUlITvErTpuiJi2PlhREZxKKJQxlJD3umU7vv7UBvIExUK5tGfM1Ogf-NoXTxEOLEWRmNdovb2q=
+56_V9Q6SAmqrsxbT3b6WzFMoD6BXatzSUNOlJeB94AkieHeAAHCxuSS-7W3pYU47U5HZyHSb0w_=
+8z_PDW3wU6IDZVv7ji4OwSukbopebbsY6ZeqLGF1NJ-PFiy5uQMqyBNrshdbzLYLDrnLOeZCrPz=
+gRZpVwibomLNvyPOW81pDt6QaCx0iy6WOeURZgUqitq9CVRTpTqgeh-MymJiFCtYgKPE4gpbVqq=
+20T0AR_2VFhsIhiTxyvc23VZv-G0gUcoMpFkJyMwfxuajp5JKSIUt4OLffbDoxVBiWkIQJs%3D"=
+ target=3D"_blank" rel=3D"noopener">click here</a>.</span></p> <p style=3D"=
+line-height: 1.5; word-break: break-word; font-family: Helvetica Neue, Helv=
+etica, Arial, sans-serif; mso-line-height-alt: 18px; margin: 0;">&nbsp;</p>=
+ <p style=3D"line-height: 1.5; word-break: break-word; font-family: Helveti=
+ca Neue, Helvetica, Arial, sans-serif; font-size: 16px; mso-line-height-alt=
+: 24px; margin: 0;"><span style=3D"line-height: inherit; font-size: 16px;">=
+At Jetpack, our goal is to give you simple, yet powerful tools that improve=
+ your site with as little work as possible. If you=E2=80=99re looking for p=
+eace of mind with automated backups and malware scanning that protect your =
+site with minimal effort on your end, check out the <a style=3D"line-height=
+: inherit; text-decoration: underline; color: #008710;" title=3D"Jetpack Se=
+curity" href=3D"http://links.jp.a8cmail.com/u/click=3F_t=3D9c23e86f01214d1c=
+94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZ=
+S7AEkhwB_uOX6sxpnM9M8N8-CiU9sfeA6_w-15cJ8_5hz9yE9Y6IRJlGFqvPALWYvjV8HBGyx9L=
+t1D_A81pCxCxIuZ8n_Ep9OSHFPlT5ckTAbUwRAUmLMewn8LUDpjaTy9qtMkfOfQoADV2N3y2kK_=
+VY_93jd4IXDHeiHNKeWkFigDRYu7cUE9xpBnYqXmBItSu0ZFwawxGo-zILyGLYA7lWt7R4657SH=
+UJGymLYsKevxCB5OmN6BnjfxKu38hNi4BD_5jZ4HBPajMynqX8F06NTkBeER99OE64QT7i0VD5O=
+0GZJw9-V_-Z07Nz52IOP2EjbggpgAdk8dWg3DNR0gvnfw8XboXy9QEVX_h_opJU58ex29B4Jr7b=
+7BqwFEgcTuBWsnaQ%3D%3D" target=3D"_blank" rel=3D"noopener">new&nbsp;Jetpack=
+ Security.</a></span></p> <p style=3D"line-height: 1.5; word-break: break-w=
+ord; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-he=
+ight-alt: 18px; margin: 0;">&nbsp;</p> <p style=3D"line-height: 1.5; word-b=
+reak: break-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif=
+; font-size: 16px; mso-line-height-alt: 24px; margin: 0;"><span style=3D"li=
+ne-height: inherit; font-size: 16px;">Take care,</span></p> <p style=3D"lin=
+e-height: 1.5; word-break: break-word; font-family: Helvetica Neue, Helveti=
+ca, Arial, sans-serif; mso-line-height-alt: 18px; margin: 0;">&nbsp;</p> <p=
+ style=3D"line-height: 1.5; word-break: break-word; font-family: Helvetica =
+Neue, Helvetica, Arial, sans-serif; font-size: 16px; mso-line-height-alt: 2=
+4px; margin: 0;"><span style=3D"line-height: inherit; font-size: 16px;">Rob=
+</span></p> <p style=3D"line-height: 1.5; word-break: break-word; font-fami=
+ly: Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; mso-line=
+-height-alt: 24px; margin: 0;"><span style=3D"line-height: inherit; font-si=
+ze: 16px;">Jetpack</span></p> </div> </div> <!--[if mso]></td></tr></table>=
+<![endif]--> <!--[if (!mso)&(!IE)]><!--> </div> <!--<![endif]--> </div> </d=
+iv> <!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]>=
+</td></tr></table></td></tr></table><![endif]--> </div> </div> </div> <div =
+style=3D"line-height: inherit; background-color: #f6f7f7; overflow: hidden;=
+"> <div class=3D"block-grid " style=3D"line-height: inherit; min-width: 320=
+px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; wor=
+d-break: break-word; Margin: 0 auto; width: 100%; background-color: transpa=
+rent;"> <div style=3D"line-height: inherit; border-collapse: collapse; disp=
+lay: table; width: 100%; background-color: transparent;"> <!--[if (mso)|(IE=
+)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" s=
+tyle=3D"background-color:#f6f7f7;"><tr><td align=3D"center"><table cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:600px"><tr class=3D=
+"layout-full-width" style=3D"background-color:transparent"><![endif]--> <!-=
+-[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D"background-col=
+or:transparent;width:600px; border-top: 0px solid transparent; border-left:=
+ 0px solid transparent; border-bottom: 0px solid transparent; border-right:=
+ 0px solid transparent;" valign=3D"top"><table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 0px; =
+padding-left: 0px; padding-top:30px; padding-bottom:0px;"><![endif]--> <div=
+ class=3D"col num12" style=3D"line-height: inherit; min-width: 320px; max-w=
+idth: 600px; display: table-cell; vertical-align: top; width: 600px;"> <div=
+ style=3D"line-height: inherit; width: 100% !important;"> <!--[if (!mso)&(!=
+IE)]><!--> <div style=3D"line-height: inherit; border-top: 0px solid transp=
+arent; border-left: 0px solid transparent; border-bottom: 0px solid transpa=
+rent; border-right: 0px solid transparent; padding-top: 30px; padding-botto=
+m: 0px; padding-right: 0px; padding-left: 0px;"> <!--<![endif]--> <!--[if m=
+so]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+<tr><td style=3D"padding-right: 0px; padding-left: 0px; padding-top: 0px; p=
+adding-bottom: 0px; font-family: Arial, sans-serif"><![endif]--> <div style=
+=3D"color: #FFFFFF; font-family: Helvetica Neue, Helvetica, Arial, sans-ser=
+if; line-height: 1.5; padding-top: 0px; padding-right: 0px; padding-bottom:=
+ 0px; padding-left: 0px;"> <div style=3D"font-size: 12px; line-height: 1.5;=
+ font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #FFFFFF;=
+ mso-line-height-alt: 18px;"> <p style=3D"font-size: 12px; line-height: 1.5=
+; text-align: center; word-break: break-word; font-family: Helvetica Neue, =
+Helvetica, Arial, sans-serif; mso-line-height-alt: 18px; margin: 0;"><span =
+style=3D"line-height: inherit; color: #808080; font-size: 12px;"><strong st=
+yle=3D"line-height: inherit;"><span style=3D"line-height: inherit; font-siz=
+e: 14px;">Restore your site from anywhere.</span></strong></span></p> <p st=
+yle=3D"font-size: 12px; line-height: 1.5; text-align: center; word-break: b=
+reak-word; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-l=
+ine-height-alt: 18px; margin: 0;"><br style=3D"line-height: inherit;"><span=
+ style=3D"line-height: inherit; color: #808080; font-size: 14px;">Get one-c=
+lick restores in the WordPress mobile app.</span></p> </div> </div> <!--[if=
+ mso]></td></tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--> </div> <!-=
+-<![endif]--> </div> </div> <!--[if (mso)|(IE)]></td></tr></table><![endif]=
+--> <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </=
+div> </div> </div> <div style=3D"line-height: inherit; background-color: #f=
+6f7f7; overflow: hidden;"> <div class=3D"block-grid " style=3D"line-height:=
+ inherit; min-width: 320px; max-width: 600px; overflow-wrap: break-word; wo=
+rd-wrap: break-word; word-break: break-word; Margin: 0 auto; width: 100%; b=
+ackground-color: transparent;"> <div style=3D"line-height: inherit; border-=
+collapse: collapse; display: table; width: 100%; background-color: transpar=
+ent;"> <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0" style=3D"background-color:#f6f7f7;"><tr><td align=3D=
+"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"w=
+idth:600px"><tr class=3D"layout-full-width" style=3D"background-color:trans=
+parent"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600"=
+ style=3D"background-color:transparent;width:600px; border-top: 0px solid t=
+ransparent; border-left: 0px solid transparent; border-bottom: 0px solid tr=
+ansparent; border-right: 0px solid transparent;" valign=3D"top"><table widt=
+h=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=
+=3D"padding-right: 0px; padding-left: 0px; padding-top:20px; padding-bottom=
+:20px;"><![endif]--> <div class=3D"col num12" style=3D"line-height: inherit=
+; min-width: 320px; max-width: 600px; display: table-cell; vertical-align: =
+top; width: 600px;"> <div style=3D"line-height: inherit; width: 100% !impor=
+tant;"> <!--[if (!mso)&(!IE)]><!--> <div style=3D"line-height: inherit; bor=
+der-top: 0px solid transparent; border-left: 0px solid transparent; border-=
+bottom: 0px solid transparent; border-right: 0px solid transparent; padding=
+-top: 20px; padding-bottom: 20px; padding-right: 0px; padding-left: 0px;"> =
+<!--<![endif]--> <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 0px; padding-left=
+: 0px; padding-top: 0px; padding-bottom: 0px; font-family: Arial, sans-seri=
+f"><![endif]--> <div style=3D"color: #FFFFFF; font-family: Helvetica Neue, =
+Helvetica, Arial, sans-serif; line-height: 1.2; padding-top: 0px; padding-r=
+ight: 0px; padding-bottom: 0px; padding-left: 0px;"> <div style=3D"font-siz=
+e: 12px; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, s=
+ans-serif; color: #FFFFFF; mso-line-height-alt: 14px;"> <p style=3D"font-si=
+ze: 14px; line-height: 1.2; text-align: center; word-break: break-word; fon=
+t-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt=
+: 17px; margin: 0;"><span style=3D"line-height: inherit; color: #000000; fo=
+nt-size: 14px;"><div style=3D"background-color: transparent;"> <div class=
+=3D"block-grid " style=3D"Margin: 0 auto; min-width: 320px; max-width: 600p=
+x; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word=
+; background-color: transparent;"> <div style=3D"border-collapse: collapse;=
+display: table;width: 100%;background-color: transparent;"><!--[if (mso)|(I=
+E)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D"background-color: transparent;"><tr><td align=3D"center"><table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:600px"><tr cl=
+ass=3D"layout-full-width" style=3D"background-color: transparent"><![endif]=
+--><!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D"backgrou=
+nd-color: transparent;width:600px; border-top: 0px solid transparent; borde=
+r-left: 0px solid transparent; border-bottom: 0px solid transparent; border=
+-right: 0px solid transparent;" valign=3D"top"><table width=3D"100%" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: =
+0px; padding-left: 0px; padding-top:0px; padding-bottom:0px;background-colo=
+r:transparent ;"><![endif]--> <div class=3D"col num12" style=3D"min-width: =
+320px; max-width: 600px; display: table-cell; vertical-align: top; width: 6=
+00px;"> <div style=3D"background-color:transparent;width:100% !important;">=
+<!--[if (!mso)&(!IE)]><!--> <div style=3D"border-top:0px solid transparent;=
+ border-left:0px solid transparent; border-bottom:0px solid transparent; bo=
+rder-right:0px solid transparent; padding-top:0px; padding-bottom:0px; padd=
+ing-right: 0px; padding-left: 0px;"><!--<![endif]--><!--[if !mso]><!--> <di=
+v class=3D"desktop_hide" style=3D"mso-hide: all; display: none; max-height:=
+ 0px; overflow: hidden;"> <div class=3D"img-container center fixedwidth" al=
+ign=3D"center" style=3D"padding-right: 0px;padding-left: 0px;"><!--[if mso]=
+><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr=
+ style=3D"line-height:0px"><td style=3D"padding-right: 0px;padding-left: 0p=
+x;" align=3D"center"><![endif]--><a target=3D"_blank" href=3D"http://links.=
+jp.a8cmail.com/u/click=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c2163=
+7ea814aaca6c6dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh_zbefsaquzeAA_xW6PRRERE=
+zpSHhr6oEZcUwPv5QBEU01mSEGujP9eQpwrdUd06RsxjHle70ZdXF1_EIKC6egcNFPn-RS2ZcBy=
+pbqQhx7QlKTYx7d1rwSDpgQf02LKQHWvoW9-3E3SqO-N4_fBbUSwGHb8hugjvG20YXKz3AHK-EB=
+yDxr1KGBypOT4tnJoVlNDOgoM8wWBtseQaG8WQY9yWm8pIoSrYErDSz3s4OcVb3ffoR0gATH9op=
+B0iXypRYED8CdYLMoYuq8dOl7FJy2svn8339pYIxIkHsP8ZUeS2EGsLZaLF9lgiVyH7rCFgUXl6=
+XnNZdNZ3zrgEhnlZJGGgzp5iDnDvQIJlWs2OJXhHq8oqgPkd_l4qoHv6ulvrHtD1vdXvZ_Xy4sa=
+0oBTTgZt3q5uFeT-dgrcNuX3Qu1Js"><img class=3D"center fixedwidth" align=3D"ce=
+nter" border=3D"0" alt=3D"Download the WordPress app on the App Store" titl=
+e=3D"Download the WordPress app on the App Store" style=3D"text-decoration:=
+ none; -ms-interpolation-mode: bicubic; height: auto; border: none; width: =
+100%; max-width: 150px; display: block;" width=3D"150" src=3D"https://d15k2=
+d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c=
+542cff6dd6a/9c23e86f01214d1c94181325e051330d/Apple.png"/></a> <div style=3D=
+"font-size:1px;line-height:15px"> </div> <!--[if mso]></td></tr></table><![=
+endif]--></div> </div> <!--<![endif]--><!--[if !mso]><!--> <div class=3D"de=
+sktop_hide" style=3D"mso-hide: all; display: none; max-height: 0px; overflo=
+w: hidden;"> <div class=3D"img-container center fixedwidth" align=3D"center=
+" style=3D"padding-right: 0px;padding-left: 0px;"><!--[if mso]><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"lin=
+e-height:0px"><td style=3D"padding-right: 0px;padding-left: 0px;" align=3D"=
+center"><![endif]--><a target=3D"_blank" href=3D"http://links.jp.a8cmail.co=
+m/u/click=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6=
+dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkhyL1KHpbylOD5iY2z-RTg-cfAz9VO8qNqh8is=
+f-6vTbdoB89izE2mdAbrvpGdWVL8GRs7OynRmwCJp2dcIB1gVOsIG_WspWnbexVIihxj10iveEx=
+tJsNAbuINpJo5RIpiDD-Od5chIGJiCsguCVIDDZR6-hBa8vC1JlFIKQtFVBdjce72STABMCuoUE=
+i6O2cHH2t7kbHgAfVbAXXR9mVyCQTh-5u4Tj4L9Z8Z9VzCl4io6q_idx7yAvKVpDIhhSqmuVkUt=
+K92zTOal1GZJ8pNpXtH8pstn6zL1psNHKE18veGzUkUHbT6qvlr_SsJj4EKNiimZBVuBzrfwYYd=
+Eeh9ExYE1luf-pfyhQqIQfjS4i967OmO0WKXjzUstb81Trx3VwOdjisiwyJ7q2__JN5YG9bW8LK=
+K1u8D8kbxw9EJN8dDMaJglaRtGXEhCAGAu83oo0sm6KOBoNL01MNZIPVEBA5m-ZjXUjM90VcOgP=
+-crHk6Eg5wfWVfG3oZrQTXp5y-UEBOiQo-_r56QcJ7ha38dc%3D"><img class=3D"center f=
+ixedwidth" align=3D"center" border=3D"0" alt=3D"Download the WordPress app =
+on Google Play" title=3D"Download the WordPress app on Google Play" style=
+=3D"text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; b=
+order: none; width: 100%; max-width: 150px; display: block;" width=3D"150" =
+src=3D"https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5=
+713-9b6a-46bb-bd7e-c542cff6dd6a/9c23e86f01214d1c94181325e051330d/GooglePlay=
+.png"/></a> <!--[if mso]></td></tr></table><![endif]--></div> </div> <!--<=
+![endif]--><!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> =
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--><!--[if (mso)|(IE)]></td>=
+</tr></table></td></tr></table><![endif]--></div> </div> </div> </span></p>=
+ </div> </div> <!--[if mso]></td></tr></table><![endif]--> <!--[if mso]><ta=
+ble width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ style=3D"padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-=
+bottom: 0px; font-family: Arial, sans-serif"><![endif]--> <div style=3D"col=
+or: #FFFFFF; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; lin=
+e-height: 1.2; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; p=
+adding-left: 0px;"> <div style=3D"font-size: 12px; line-height: 1.2; font-f=
+amily: Helvetica Neue, Helvetica, Arial, sans-serif; color: #FFFFFF; mso-li=
+ne-height-alt: 14px;"> <p style=3D"font-size: 14px; line-height: 1.2; text-=
+align: center; word-break: break-word; font-family: Helvetica Neue, Helveti=
+ca, Arial, sans-serif; mso-line-height-alt: 17px; margin: 0;"><span style=
+=3D"line-height: inherit; color: #000000; font-size: 14px;"><div style=3D"b=
+ackground-color: transparent;"> <div class=3D"block-grid two-up" style=3D"M=
+argin: 0 auto; min-width: 320px; max-width: 600px; overflow-wrap: break-wor=
+d; word-wrap: break-word; word-break: break-word; background-color: transpa=
+rent;"> <div style=3D"border-collapse: collapse;display: table;width: 100%;=
+background-color:transparent;"><!--[if (mso)|(IE)]><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color: t=
+ransparent;"><tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" s=
+tyle=3D"background-color:transparent"><![endif]--><!--[if (mso)|(IE)]><td a=
+lign=3D"center" width=3D"300" style=3D"background-color:transparent;width:3=
+00px; valign=3D"top"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"><tr><td style=3D"padding-right: 0px; padding-left: 60px; p=
+adding-top:0px; padding-bottom:0px;background-color:transparent;"><![endif]=
+--> <div class=3D"col num6" style=3D"max-width: 320px; min-width: 300px; di=
+splay: table-cell; vertical-align: top; width: 300px;"> <div style=3D"backg=
+round-color:transparent;width:100% !important;"><!--[if (!mso)&(!IE)]><!-->=
+ <div style=3D"padding-top:0px; padding-bottom:0px; padding-right: 0px; pad=
+ding-left: 60px;"><!--<![endif]--> <div class=3D"mobile_hide"> <div class=
+=3D"img-container center fixedwidth" align=3D"center" style=3D"padding-righ=
+t: 0px;padding-left: 60px;"><!--[if mso]><table width=3D"100%" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px"><td sty=
+le=3D"padding-right: 0px;padding-left: 60px;" align=3D"center"><![endif]-->=
+<a target=3D"_blank" href=3D"http://links.jp.a8cmail.com/u/click=3F_t=3D9c2=
+3e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3D5e=
+brhyrQpS8UWoZS7AEkh_zbefsaquzeAA_xW6PRREREzpSHhr6oEZcUwPv5QBEU01mSEGujP9eQp=
+wrdUd06RsxjHle70ZdXF1_EIKC6egcNFPn-RS2ZcBypbqQhx7QlKTYx7d1rwSDpgQf02LKQHWvo=
+W9-3E3SqO-N4_fBbUSwGHb8hugjvG20YXKz3AHK-EByDxr1KGBypOT4tnJoVlNDOgoM8wWBtseQ=
+aG8WQY9xTZ34OlRJ6GZBS5qw5OS8Y7Oc0fywlxPihL0SUrndpYaRKx95TuqSduBwkndCU2eN019=
+MWYIOIW1edBP3mOEht_Yr4X_XDckaLWmnvJmwrdb_9XR5NPqVG46AaZNQSp0CocXmtbaMaz0Wgw=
+KowuPz5gbBOk4Q-uwIed3SYP_I2Mo6umCLKLpToWv9_uD37d7LYUsVLq_SDJoBcPNglhF3V"><i=
+mg class=3D"center fixedwidth" align=3D"center" border=3D"0" alt=3D"Downloa=
+d the WordPress app on the App Store" title=3D"Download the WordPress app o=
+n the App Store" style=3D"text-decoration: none; -ms-interpolation-mode: bi=
+cubic; height: auto; border: none; width: 100%; max-width: 132px; display: =
+block;" width=3D"132" src=3D"https://d15k2d11r6t6rl.cloudfront.net/public/u=
+sers/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/9c23e86f01214d1c94181=
+325e051330d/Apple.png"/></a> <!--[if mso]></td></tr></table><![endif]--></d=
+iv> </div> <!--[if (!mso)&(!IE)]><!--></div> <!--<![endif]--></div> </div> =
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--><!--[if (mso)|(IE)]></td>=
+<td align=3D"center" width=3D"300" style=3D"background-color:transparent;wi=
+dth:300px; valign=3D"top"><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td style=3D"padding-right: 60px; padding-left: 0=
+px; padding-top:0px; padding-bottom:0px;background-color:transparent;"><![e=
+ndif]--> <div class=3D"col num6" style=3D"max-width: 320px; min-width: 300p=
+x; display: table-cell; vertical-align: top; width: 300px;"> <div style=3D"=
+background-color:transparent;width:100% !important;"><!--[if (!mso)&(!IE)]>=
+<!--> <div style=3D"padding-top:0px; padding-bottom:0px; padding-right: 60p=
+x; padding-left: 0px;"><!--<![endif]--> <div class=3D"mobile_hide"> <div cl=
+ass=3D"img-container center fixedwidth" align=3D"center" style=3D"padding-r=
+ight: 60px;padding-left: 0px;"><!--[if mso]><table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px"><td s=
+tyle=3D"padding-right: 60px;padding-left: 0px;" align=3D"center"><![endif]-=
+-><a target=3D"_blank" href=3D"http://links.jp.a8cmail.com/u/click=3F_t=3D9=
+c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3D=
+5ebrhyrQpS8UWoZS7AEkhyL1KHpbylOD5iY2z-RTg-cfAz9VO8qNqh8isf-6vTbdoB89izE2mdA=
+brvpGdWVL8GRs7OynRmwCJp2dcIB1gVOsIG_WspWnbexVIihxj10iveExtJsNAbuINpJo5RIpiD=
+D-Od5chIGJiCsguCVIDDZR6-hBa8vC1JlFIKQtFVBdjce72STABMCuoUEi6O2cHH2t7kbHgAfVb=
+AXXR9mVyCQTh-5u4Tj4L9Z8Z9VzCl4io6q_idx7yAvKVpDIhhSqmuVkUtK92zTOal1GZJ8pNpXt=
+H8pstn6zL1psNHKE18veQdM265KynSONUMax-rp-I_cUqRObvwpuQnf8oBJURdClxjF-XIm2Sfs=
+smlweTAsSSkwwc-D1qa2EyHpIxKjDVcCT21nU1y11Ie_k8t9dxoAdfL4PpUbI1oOm62J7pf39B2=
+DVB53TUu-0pIkNvGqWUJNWo-WjT_jK-RDYruGIkFUSgMMhjYBGParWktYT-VIsYc3Bt7KB94_Go=
+5Ka2160QryoKneEsbenZdjf2IUiPgw%3D"><img class=3D"center fixedwidth" align=
+=3D"center" border=3D"0" alt=3D"Download the WordPress app on Google Play" =
+title=3D"Download the WordPress app on Google Play" style=3D"text-decoratio=
+n: none; -ms-interpolation-mode: bicubic; height: auto; border: none; width=
+: 100%; max-width: 132px; display: block;" width=3D"132" src=3D"https://d15=
+k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e=
+-c542cff6dd6a/9c23e86f01214d1c94181325e051330d/GooglePlay.png"/></a> <!--[i=
+f mso]></td></tr></table><![endif]--></div> </div> <!--[if (!mso)&(!IE)]><!=
+--></div> <!--<![endif]--></div> </div> <!--[if (mso)|(IE)]></td></tr></tab=
+le><![endif]--><!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![e=
+ndif]--></div> </div> </div> </span></p> </div> </div> <!--[if mso]></td></=
+tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--> </div> <!--<![endif]-->=
+ </div> </div> <!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (=
+mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </div> <=
+/div> <div style=3D"line-height: inherit; background-color: #f6f7f7; overfl=
+ow: hidden;"> <div class=3D"block-grid " style=3D"line-height: inherit; min=
+-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: brea=
+k-word; word-break: break-word; Margin: 0 auto; width: 100%; background-col=
+or: transparent;"> <div style=3D"line-height: inherit; border-collapse: col=
+lapse; display: table; width: 100%; background-color: transparent;"> <!--[i=
+f (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"background-color:#f6f7f7;"><tr><td align=3D"center"><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:600px"><=
+tr class=3D"layout-full-width" style=3D"background-color:transparent"><![en=
+dif]--> <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D"bac=
+kground-color:transparent;width:600px; border-top: 0px solid transparent; b=
+order-left: 0px solid transparent; border-bottom: 0px solid transparent; bo=
+rder-right: 0px solid transparent;" valign=3D"top"><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-rig=
+ht: 0px; padding-left: 0px; padding-top:0px; padding-bottom:40px;"><![endif=
+]--> <div class=3D"col num12" style=3D"line-height: inherit; min-width: 320=
+px; max-width: 600px; display: table-cell; vertical-align: top; width: 600p=
+x;"> <div style=3D"line-height: inherit; width: 100% !important;"> <!--[if =
+(!mso)&(!IE)]><!--> <div style=3D"line-height: inherit; border-top: 0px sol=
+id transparent; border-left: 0px solid transparent; border-bottom: 0px soli=
+d transparent; border-right: 0px solid transparent; padding-top: 0px; paddi=
+ng-bottom: 40px; padding-right: 0px; padding-left: 0px;"> <!--<![endif]--> =
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding-=
+top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-=
+-> <div style=3D"color: #555555; font-family: Helvetica Neue, Helvetica, Ar=
+ial, sans-serif; line-height: 1.2; padding-top: 10px; padding-right: 10px; =
+padding-bottom: 10px; padding-left: 10px;"> <div style=3D"font-family: Helv=
+etica Neue, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.2=
+; color: #555555; mso-line-height-alt: 14px;"> <p style=3D"font-size: 14px;=
+ line-height: 1.2; text-align: center; word-break: break-word; font-family:=
+ Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-alt: 17px; m=
+argin: 0;"><span style=3D"line-height: inherit; color: #808080; font-size: =
+14px;"><strong style=3D"line-height: inherit;"><span style=3D"line-height: =
+inherit; font-size: 16px;">Follow us</span></strong></span></p> </div> </di=
+v> <!--[if mso]></td></tr></table><![endif]--> <table class=3D"social_icons=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" =
+style=3D"line-height: inherit; table-layout: fixed; vertical-align: top; bo=
+rder-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt;" valign=3D"top"> <tbody style=3D"line-height: inherit;"> <tr=
+ style=3D"line-height: inherit; border-collapse: collapse; vertical-align: =
+top;" valign=3D"top"> <td style=3D"line-height: inherit; border-collapse: c=
+ollapse; word-break: break-word; vertical-align: top; padding-top: 10px; pa=
+dding-right: 10px; padding-bottom: 35px; padding-left: 10px;" valign=3D"top=
+"> <table class=3D"social_table" align=3D"center" cellpadding=3D"0" cellspa=
+cing=3D"0" role=3D"presentation" style=3D"line-height: inherit; table-layou=
+t: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse=
+; mso-table-tspace: 0; mso-table-rspace: 0; mso-table-bspace: 0; mso-table-=
+lspace: 0;" valign=3D"top"> <tbody style=3D"line-height: inherit;"> <tr sty=
+le=3D"line-height: inherit; border-collapse: collapse; vertical-align: top;=
+ display: inline-block; text-align: center;" align=3D"center" valign=3D"top=
+"> <td style=3D"line-height: inherit; border-collapse: collapse; word-break=
+: break-word; vertical-align: top; padding-bottom: 0; padding-right: 7.5px;=
+ padding-left: 7.5px;" valign=3D"top"><a href=3D"http://links.jp.a8cmail.co=
+m/u/click=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6=
+dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkhxGYL81DZ81gBDV0Wg-5myHCqQUJ3IeIEcjWR=
+pRGggIeTWTSXBfdw2RpWjbHg4ltSjk-uXmN0K4vBMP3rcEGDc01PwGEjEc_CDpdgGHg5nonzx50=
+l6uMpu7Uwg6tw1KBPVC-tN2zdJYFFCibtjxintlgwuCjocPjo3vtEh2eSAiY-5L97jf4sa6Y2wp=
+Y2WJuuQO2LBZEDS4nc1seC48b1xEhA0EvlnEWl1Nz0wS8a9AS5P5K3reTpCT4kz4l_622K90fBC=
+ByyDuEXcds3n4KheZnYAE5837HgpKUWcqYL4e5sxGzcCt7OhSJtiJOreeIBSJwtxMEW37q53xU2=
+_ghpWWCl4gXfJ3sNiE5ZxEWCdgZ08b3--ojDWyr843cBO7E_paxSHK_UengDxcGZZi7mOSQrhuJ=
+KWnkPn8KuLLSeWK7e0ZH8r6LaPXMpzrVIZpFVUfkb_4ZaekGid38Dwrbyac%3D" target=3D"_=
+blank" style=3D"line-height: inherit;"><img width=3D"32" height=3D"32" src=
+=3D"https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-=
+icon-sets/circle-color/facebook@2x.png" alt=3D"Facebook" title=3D"Jetpack o=
+n Facebook" style=3D"line-height: inherit; text-decoration: none; -ms-inter=
+polation-mode: bicubic; height: auto; border: 0; display: block;"></a></td>=
+ <td style=3D"line-height: inherit; border-collapse: collapse; word-break: =
+break-word; vertical-align: top; padding-bottom: 0; padding-right: 7.5px; p=
+adding-left: 7.5px;" valign=3D"top"><a href=3D"http://links.jp.a8cmail.com/=
+u/click=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc=
+62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh8Ze-LoVdUJRvrx6byiFK2TAO8BbQqxc0m70_Dg=
+7O_5n8WBV_1K95v-JF8eZ4be90FxPdYOo-nzE-bd53QN7uJMojS22pmaBDPVqve7PeHLaeLBzFC=
+sfR-58Str78hEGDA_0QdftyfiG42nQcVIuYX0GjFtMVUvDe-NvombQ2hD_S9wsSHeQnW1yBPAg1=
+ILip-NztAp1CRdDNSR15J_55oLmVlu-0fJA1PMuFhiYAM_DgnJLlB5xEKgVDy3MyLE9uWH-0VMm=
+LWHifGTovyg1vs3cN9un9GdWlpU8nv8CxmAdslbvS9nhtdTo2hKT-rsVhS9-be-uKfB1vGfYsA2=
+2Q1nJCE-qp8rvLs7IoeHU5b-t8uQ_PmIeDigA10BljH8mKgZduklOnlPgMvZ3W7ULQgcCDdJYZ_=
+QVZANZw0jonvxkwXFba_40WDVtLQGCIuCYVMb_bgHbOgjXm-Odl2Uqe1Y%3D" target=3D"_bl=
+ank" style=3D"line-height: inherit;"><img width=3D"32" height=3D"32" src=3D=
+"https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-ico=
+n-sets/circle-color/twitter@2x.png" alt=3D"Twitter" title=3D"Jetpack on Twi=
+tter" style=3D"line-height: inherit; text-decoration: none; -ms-interpolati=
+on-mode: bicubic; height: auto; border: 0; display: block;"></a></td> <td s=
+tyle=3D"line-height: inherit; border-collapse: collapse; word-break: break-=
+word; vertical-align: top; padding-bottom: 0; padding-right: 7.5px; padding=
+-left: 7.5px;" valign=3D"top"><a href=3D"http://links.jp.a8cmail.com/u/clic=
+k=3F_t=3D9c23e86f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093=
+cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh4BAFgJuUQz8pzkg-w7SWPrTG2h3ukMPwpLIY1MigFpUr=
+bUOxb5kPrg9WAlg2T7i2aiJPWa-NqaGHkMVBkkOMgajH1Fy3BmhWwqSe8cxddBaKt_WGlzY-E_0=
+P7UWctbzaSlhnLwYiEwGrj-ylHbG9iQbN7UHBXEn4UPHs4_1fhuJjzTTd2fpZlp-Q0sM0gSkIX0=
+rdS4M5bcD5dVXX1U76cI-PN20rfvWiTw8lGDLSDIrfQ3-geYAbYmhMcuqfV-6NC64KWEfPxgAYi=
+wcpd1c3vGqefbZUkHFKOtbYTVEr54_lEygs7JRr9avh6Xf0Hj2ZdxL5Cjc_6lfhyN5q4R5EpVhd=
+3XLMbqp-mSf_15ZB1VAR2uhP6a0s2MAvhTqNcdqkkFdmt1B0mZQ1qRc7ODdNI4%3D" target=
+=3D"_blank" style=3D"line-height: inherit;"><img width=3D"32" height=3D"32"=
+ src=3D"https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-netwo=
+rks-icon-sets/circle-color/linkedin@2x.png" alt=3D"LinkedIn" title=3D"Jetpa=
+ck on LinkedIn" style=3D"line-height: inherit; text-decoration: none; -ms-i=
+nterpolation-mode: bicubic; height: auto; border: 0; display: block;"></a><=
+/td> </tr> </tbody> </table> </td> </tr> </tbody> </table> <div class=3D"im=
+g-container center fixedwidth" align=3D"center" style=3D"line-height: inher=
+it; padding-right: 0px; padding-left: 0px;"> <!--[if mso]><table width=3D"1=
+00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-hei=
+ght:0px"><td style=3D"padding-right: 0px;padding-left: 0px;" align=3D"cente=
+r"><![endif]--><a href=3D"http://links.jp.a8cmail.com/u/click=3F_t=3D9c23e8=
+6f01214d1c94181325e051330d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3D5ebrh=
+yrQpS8UWoZS7AEkh7cYOFgCL2uRB0wkuDqljKp8qBVCjhoFF0iDwuEZtLDa3zN9DTsdtPgsSdM2=
+jRNVRVJGAi_ZYjUe-LUJxwmPRBRJhFR0pJN2bSxUT3q0mcO_HaDUL8FHffZe8ugbud0zqBN7IUI=
+Hu9pe4nvfC6aNKnRIleLoEmaGVkXLz1MlosN69yWIIKwR9iH0PPz2qWsrXIKkO9_47fdrP-qZxy=
+2Z50XXP0tjjrgFqvgXIlU5L-iOWtJORX9SWPv3mvRLOxQ2K9xzy4hECT6wZIX5viMe4HIBBTPq_=
+ehimwj24SS1xMT41F7UHY60FzdYWbntbnnts3v2QCVQCgPIzUEJGid1FX2BzTOv26rBgwFITtm2=
+ZQRB" target=3D"_blank" style=3D"line-height: inherit; outline: none;" tabi=
+ndex=3D"-1"> <img class=3D"center fixedwidth" align=3D"center" border=3D"0"=
+ src=3D"https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d=
+5713-9b6a-46bb-bd7e-c542cff6dd6a/9c23e86f01214d1c94181325e051330d/Jetpack_H=
+orizontal_RGB_grey-01.png" alt=3D"Jetpack Logo" title=3D"Jetpack Logo" styl=
+e=3D"line-height: inherit; text-decoration: none; -ms-interpolation-mode: b=
+icubic; height: auto; border: 0; width: 100%; max-width: 150px; display: bl=
+ock;" width=3D"150"></a> <div style=3D"font-size: 1px; line-height: 10px;">=
+&nbsp;</div> <!--[if mso]></td></tr></table><![endif]--> </div> <!--[if mso=
+]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><t=
+r><td style=3D"padding-right: 0px; padding-left: 0px; padding-top: 0px; pad=
+ding-bottom: 0px; font-family: Arial, sans-serif"><![endif]--> <div style=
+=3D"color: #FFFFFF; font-family: Helvetica Neue, Helvetica, Arial, sans-ser=
+if; line-height: 1.5; padding-top: 0px; padding-right: 0px; padding-bottom:=
+ 0px; padding-left: 0px;"> <div style=3D"font-size: 12px; line-height: 1.5;=
+ font-family: Helvetica Neue, Helvetica, Arial, sans-serif; color: #FFFFFF;=
+ mso-line-height-alt: 18px;"> <p style=3D"font-size: 12px; line-height: 1.5=
+; text-align: center; word-break: break-word; font-family: Helvetica Neue, =
+Helvetica, Arial, sans-serif; mso-line-height-alt: 18px; margin: 0;"><span =
+style=3D"line-height: inherit; font-size: 12px; color: #333333;">Automattic=
+ Inc. | 60 29th St. #343, San Francisco, CA 94110</span></p> <p style=3D"fo=
+nt-size: 12px; line-height: 1.5; text-align: center; word-break: break-word=
+; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-heigh=
+t-alt: 18px; margin: 0;"><span style=3D"line-height: inherit; color: #33333=
+3; font-size: 12px;">Don't want these emails=3F <span style=3D"line-height:=
+ inherit; font-size: 12px;"><a style=3D"line-height: inherit; text-decorati=
+on: underline; color: #333333;" title=3D"Unsubscribe from these emails." hr=
+ef=3D"http://links.jp.a8cmail.com/e/eh=3F_t=3D9c23e86f01214d1c94181325e0513=
+30d&_m=3D34c21637ea814aaca6c6dc62d093cfe6&_e=3D5ebrhyrQpS8UWoZS7AEkh8hZqXXP=
+st19DhWkI7V7KY1wdZAIznHTcBQxpXmXzcnzFHJ2UU8wgdMuIq8u4_bMhls6v-0N419soZ4ReCB=
+VJuByeunnvpIqNAhNGqSpMRBQQTkNAVyEtYvSNywDSazR5Isq9X1Uc_RZB3XILVlYGwlilooql1=
+PGAuKgECvYHv-wj_OsJlN7PfxVFz4_Vs00VZFzQgSC9KCFXVTORllrvWhJytdybChDB01IFcYrW=
+2OfNs1xx2bXfJO36PkGE5im3Y7KlR2GLuFG85VSGQYukUj5AWu4GonLcQTqs7zyWgdJapGAv3Wf=
+wSEj5pWxi2fYSjeocAIiHvOwsndN8Y8UaPgDVaphcFspIWikLXfiNrgfldey3B79VsWQEOKBC4Z=
+ClkdI2pZScaq_VHr_OzkjOZv-5G946X8t_ouom-6c0fa3JS-95H6NL0XSfZA5bzACqUwsHpfwI_=
+hbXCVfuqTIJDs%3D" target=3D"_blank" rel=3D"noopener">Unsubscribe</a></span>=
+.</span></p> </div> </div> <!--[if mso]></td></tr></table><![endif]--> <!-=
+-[if (!mso)&(!IE)]><!--> </div> <!--<![endif]--> </div> </div> <!--[if (mso=
+)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td></tr></tabl=
+e></td></tr></table><![endif]--> </div> </div> </div> <!--[if (mso)|(IE)]><=
+/td></tr></table><![endif]--> </td> </tr> </tbody> </table> <!--[if (IE)]><=
+/div><![endif]--> =0D=0A<img border=3D"0" width=3D"1" height=3D"1" alt=3D""=
+ src=3D"http://go.sparkpostmail2.com/q/S-L33WbiVSvo6oUQ_x_NVg~~/AAP7twA~/Rg=
+RhcZWJPlcDc3BjQgoAIYkQj1-8tfZrUhphZG1pbkBleHBsb3JlYXV0b3BhcnRzLmNvbVgEAAAAA=
+A~~">=0D=0A</body> </html>
+--_----WjSPl9vtSH0yMDbcUG6+Eg===_9E/B6-46524-9801F8F5--
+

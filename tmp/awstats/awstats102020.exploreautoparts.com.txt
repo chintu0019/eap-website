@@ -1,0 +1,505 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home1/explo6kl/tmp/awstats/awstats.exploreautoparts.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2693                
+POS_VISITOR 11844               
+POS_DAY 13733               
+POS_DOMAIN 3432                
+POS_LOGIN 3947                
+POS_ROBOT 4102                
+POS_WORMS 4446                
+POS_EMAILSENDER 4577                
+POS_EMAILRECEIVER 4720                
+POS_SESSION 14449               
+POS_SIDER 14659               
+POS_FILETYPES 4855                
+POS_DOWNLOADS 5047                
+POS_OS 5095                
+POS_BROWSER 5275                
+POS_SCREENSIZE 5679                
+POS_UNKNOWNREFERER 5753                
+POS_UNKNOWNREFERERBROWSER 6164                
+POS_ORIGIN 6467                
+POS_SEREFERRALS 6605                
+POS_PAGEREFS 6749                
+POS_SEARCHWORDS 6897                
+POS_KEYWORDS 7049                
+POS_MISC 2357                
+POS_ERRORS 7108                
+POS_CLUSTER 3803                
+POS_SIDER_404 7291                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101002206 6 1262 19854529997267
+FirstTime 20201001005209
+LastTime 20201031234949
+LastUpdate 20201101200218 6 0 5 0 0
+TotalVisits 225                 
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 47                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 29 29 340 23 61 461994
+1 7 7 0 12 21 54658
+2 18 18 0 14 17 113442
+3 16 16 590 14 14 114718
+4 12 12 214425 13 13 52184
+5 17 17 325316 14 15 96618
+6 50 50 4944 80 86 69001
+7 15 15 57272 39 55 187694
+8 12 12 55396 11 13 247
+9 59 59 3978 7 10 24883
+10 18 18 8539 23 25 416719
+11 21 21 590 23 36 151806
+12 7 7 0 8 12 50862
+13 12 12 213370 12 16 104068
+14 75 75 11330 150 162 55729
+15 27 58 513682 31 42 97742
+16 21 21 76811 32 41 375104
+17 74 74 76662 78 78 142112
+18 21 21 1576 43 45 41423
+19 4 4 0 6 7 761
+20 18 18 58645 15 29 205053
+21 14 14 65964 28 30 61714
+22 15 15 42478 66 71 524941
+23 56 56 0 44 54 453716
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 455 455 297654
+tw 37 37 7622
+br 29 29 5974
+za 12 12 57662
+es 11 11 2266
+mx 11 11 2266
+om 10 10 2060
+cn 9 9 1854
+de 9 9 380712
+fr 8 8 71342
+in 6 37 499869
+hu 4 4 824
+nl 3 3 10838
+al 2 2 412
+gb 2 2 10568
+dk 2 2 41958
+gh 2 2 412
+ru 1 1 270
+pl 1 1 340
+id 1 1 58645
+ca 1 1 55396
+vn 1 1 214425
+ch 1 1 8539
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 30 3390 20201031061227 30
+unknown 7 815 20201010142654 7
+Mail\.RU_Bot/ 4 484 20201024141238 4
+bingbot/ 4 452 20201015120242 4
+curl 3 166188 20201020171350 0
+bot[\s_+:,\.\;\/\\-] 1 113 20201018115041 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+Unknown 47 18620 0 0
+css 16 159956 0 0
+html 32 590733 0 0
+js 14 209662 0 0
+png 1 4119 0 0
+php 537 643026 0 0
+woff2 2 105792 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+winlong 5 5
+winxp 1 1
+linuxandroid 18 3
+macosx11 1 1
+win8.1 1 1
+linux 2 2
+win7 126 126
+Unknown 447 447
+win10 48 32
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+Unknown 411 411
+mozilla 36 36
+chrome85.0.4183.127 18 3
+firefox62.0 2 2
+chrome46.0.2754.75 5 5
+chrome71.0.3578.98 1 1
+firefox48.0 3 3
+chrome84.0.4147.125 12 12
+chrome60.0.3112.113 8 8
+chrome63.0.3239.132 2 2
+chrome38.0.2125.122 1 1
+firefox50.0 2 2
+chrome59.0.3071.109 126 126
+chrome78.0.3904.108 1 1
+msie6.0 1 1
+safari11.1.2 1 1
+chrome85.0.4183.121 19 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WordPress/5.5.2;_https://exploreautoparts.com 20201030233501
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20201002094916
+Cpanel-HTTP-Client/1.0 20201002094913
+WordPress/5.5.1;_https://exploreautoparts.com 20201029233351
+WordPress/5.5.3;_https://exploreautoparts.com 20201031234949
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Cpanel-HTTP-Client/1.0 20201002094913
+WordPress/5.5.1;_https://exploreautoparts.com 20201029233351
+WordPress/5.5.3;_https://exploreautoparts.com 20201031234949
+WordPress/5.5.2;_https://exploreautoparts.com 20201030233501
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 206 206
+From1 5 5
+From2 0 0
+From3 0 0
+From4 407 438
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+301 232 245
+406 157 29832
+404 190 3449516
+405 9 378
+409 252 41361
+500 26 164008
+302 26 0
+403 6 402
+400 5 5
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 93
+/wp-on.php 1 http://exploreautoparts.com/wp-on.php
+/sitemap_index.xml 2 -
+/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-admin.js 1 -
+/ 13 -
+/wikindex.php 1 exploreautoparts.com
+/wwos.php 1 http://exploreautoparts.com/wwos.php
+/wp-content/db-cache.php 1 exploreautoparts.com
+/1.txt 2 -
+/images.php 1 http://exploreautoparts.com/images.php
+/ads.txt 34 -
+/wp-includes/qw.php 1 exploreautoparts.com
+/base.php 1 http://exploreautoparts.com/base.php
+/buy/B00WNVJC1C/ 1 -
+/wp-content/plugins/seo-by-rank-math/assets/front/js/rank-math.js 1 -
+/config.php 1 exploreautoparts.com
+/installer-backup.php 6 -
+/wp-content/themes/skand/tbl_status.php 1 exploreautoparts.com
+/site.zip 2 -
+/siteindex.php 1 -
+/account 2 -
+/baindex.php 2 exploreautoparts.com
+/wp-content/plugins/super-interactive-maps/js/docs.js 2 -
+/exploreautoparts.zip 1 -
+/my-account 2 -
+/wp-content/plugins/wp-file-manager/lib/files/index3.php 1 exploreautoparts.com
+/engl/pages.php 1 exploreautoparts.com
+/wordpress.zip 1 -
+/phpinfo.php 1 http://exploreautoparts.com/phpinfo.php
+/nette.micro 1 -
+/wp-upload.php 1 http://exploreautoparts.com/wp-upload.php
+/wp-content/plugins/widget-settings-importexport/widget-data.js 1 -
+/well-known.zip 2 -
+/installer.php 6 -
+/wp-content/plugins/brizy/public/static/js/script.js 1 -
+/index3.php 1 exploreautoparts.com
+/manufacturer/wayli-internationa-inc/ 1 -
+/info.php 1 http://exploreautoparts.com/info.php
+/wp-anyconf.php 1 http://exploreautoparts.com/wp-anyconf.php
+/hello-world/ 3 http://www.exploreautoparts.com/hello-world/
+/wp-content/plugins/async-javascript/js/admin.min.js 1 -
+/wp-blog-mail.php 1 http://exploreautoparts.com/wp-blog-mail.php
+/cache/index3.php 1 exploreautoparts.com
+/.well-known.zip 2 -
+/edit.php 1 http://exploreautoparts.com/edit.php
+/wp-content/plugins/hot-blocks/huh.php 1 exploreautoparts.com
+/license.php 1 exploreautoparts.com
+/tinyfilemanager.php 1 -
+/wp-content/plugins/wp-members/assets/js/wpmem-nav-menu.min.js 1 exploreautoparts.com
+/wp-config 1 -
+/wp-content/plugins/media-library-assistant/js/mla-edit-media-scripts.min.js 1 -
+/index2.php 1 http://exploreautoparts.com/index2.php
+/wp-links.php 1 http://exploreautoparts.com/wp-links.php
+/public_html.zip 3 -
+/404.php 1 http://exploreautoparts.com/404.php
+/wp-content/themes/blogoholic/tbl_status.php 1 exploreautoparts.com
+/wp-content/plugins/advanced-access-manager/media/js/aam.js 1 -
+/ajax-index.php 3 exploreautoparts.com
+/test.php 1 http://exploreautoparts.com/test.php
+/assets/images/index3.php 2 exploreautoparts.com
+/zinold.php 1 exploreautoparts.com
+/sendpress/eyJpZCI6IiIsInJlcG9ydCI6IiIsInZpZXciOiJ0cmFja2VyIiwidXJsIjoiaHR0cHM6XC9cL3lhLnJ1In0/ 1 -
+/.well-known/security.txt 1 -
+/wp-includes/Requests/Exception/HTTPS.php 1 -
+/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.js 2 -
+/wp-info.php 1 http://exploreautoparts.com/wp-info.php
+/wp-content/plugins/kali-forms/public/assets/frontend/js/frontend.js 1 -
+/wp-content/plugins/hulk/css.php 1 exploreautoparts.com
+/shop 1 -
+/Archive.zip 3 -
+/wp-conf.php 1 http://exploreautoparts.com/wp-conf.php
+/wp-content/plugins/background-image-cropper/index3.php 1 exploreautoparts.com
+/wp-content/themes/matrimony/tbl_status.php 1 exploreautoparts.com
+/about.php 1 http://exploreautoparts.com/about.php
+/wp-blog.php 1 http://exploreautoparts.com/wp-blog.php
+/theme.php 1 http://exploreautoparts.com/theme.php
+/meta.php 1 http://exploreautoparts.com/meta.php
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 16 www.google.com
+/wp-content/plugins/superlogoshowcase-wp/js/docs.js 1 -
+/error.php 1 http://exploreautoparts.com/error.php
+/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js 1 -
+/wso.php 1 http://exploreautoparts.com/wso.php
+/exploreautoparts.com.zip 3 -
+/wp-content/plugins/users-customers-import-export-for-wp-woocommerce/styles/select2.js 1 -
+/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/isotope.min.js 1 -
+/humans.txt 2 -
+/contact-us/ 1 -
+/cgi-bin.zip 4 -
+/wp-content/tinyfilemanager.php 1 -
+/wp-mains.php 1 http://exploreautoparts.com/wp-mains.php
+/wp-admin.zip 3 -
+/wp-content/cpl.php 1 exploreautoparts.com
+/wsi.php 1 http://exploreautoparts.com/wsi.php
+/wp-content/plugins/ar-contactus/res/js/scripts.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 47
+162.241.85.217 435 435 2664 20201031234949
+77.209.148.157 11 11 2266 20201026141627
+118.161.26.186 11 11 2266 20201029144536
+61.228.120.150 11 11 2266 20201029145026
+114.38.240.126 11 11 2266 20201026140943
+213.172.139.188 11 11 2266 20201025170410
+179.149.209.117 11 11 2266 20201021062141
+191.25.130.27 11 11 2266 20201021061935
+187.190.226.25 11 11 2266 20201025170201
+5.36.120.126 10 10 2060 20201025170609
+36.251.148.12 9 9 1854 20201025175256
+92.204.55.4 8 8 325316 20201027055233
+189.41.156.75 7 7 1442 20201026141710
+115.99.170.157 6 37 499869 20201005155640
+178.32.62.253 4 4 57272 20201019073350
+193.151.118.207 4 4 824 20201025181313
+124.9.199.219 4 4 824 20201029144713
+3.128.26.105 3 3 261 20201002094915
+64.78.149.164 3 3 261 20201002094915
+198.12.250.42 3 3 213370 20201001132850
+91.121.78.78 2 2 1180 20201017111230
+18.196.96.172 2 2 174 20201002094915
+79.106.166.154 2 2 412 20201021061528
+72.47.244.17 2 2 11117 20201012160715
+195.181.168.186 2 2 41958 20201004223259
+88.198.91.76 1 1 55396 20201020211257
+91.121.89.77 1 1 12550 20201010171658
+83.137.144.115 1 1 10298 20201016213656
+134.209.172.157 1 1 13543 20201004154340
+149.202.84.186 1 1 340 20201023005719
+128.90.139.199 1 1 520 20201007223152
+188.166.85.7 1 1 270 20201010171708
+182.253.175.29 1 1 58645 20201005203334
+185.250.47.153 1 1 270 20201014094933
+91.237.69.244 1 1 340 20201028181923
+142.4.30.19 1 1 55396 20201019174944
+46.101.5.73 1 1 270 20201004154347
+193.27.229.26 1 1 8539 20201027105245
+192.99.201.91 1 1 55396 20201014164959
+52.28.236.88 1 1 87 20201002094915
+123.30.50.74 1 1 214425 20201024041736
+141.98.102.243 1 1 10298 20201013160516
+34.211.6.84 2 2 174 20201002094915
+163.172.111.6 1 1 270 20201016213703
+41.66.233.86 2 2 412 20201025181424
+34.209.232.166 1 1 87 20201002094915
+196.47.64.42 1 1 55396 20201021081232
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20201001 7 7 213370 5
+20201002 49 49 3708 11
+20201003 5 5 0 4
+20201004 11 11 55771 9
+20201005 16 47 558514 7
+20201006 18 18 0 8
+20201007 17 17 520 8
+20201008 12 12 0 6
+20201009 15 15 0 5
+20201010 20 20 12820 9
+20201011 10 10 0 6
+20201012 12 12 11117 5
+20201013 8 8 10298 4
+20201014 15 15 55666 8
+20201015 21 21 0 9
+20201016 30 30 10568 13
+20201017 12 12 1180 7
+20201018 10 10 0 4
+20201019 21 21 112668 9
+20201020 27 27 55396 8
+20201021 50 50 60340 12
+20201022 17 17 0 8
+20201023 13 13 340 7
+20201024 9 9 214425 5
+20201025 64 64 9682 10
+20201026 43 43 5974 9
+20201027 27 27 333855 8
+20201028 11 11 340 6
+20201029 37 37 5356 9
+20201030 5 5 0 3
+20201031 6 6 0 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 6
+1h+ 7
+0s-30s 168
+2mn-5mn 4
+30mn-1h 17
+15mn-30mn 11
+5mn-15mn 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/wp-cron.php 402 0 177 177
+/xmlrpc.php 128 197958 15 16
+/ 22 528558 10 7
+/wp-json/wp/v2/users/ 8 3260 7 8
+/index.php 6 444548 6 6
+/.well-known/acme-challenge/n---mpWHJpkZcmnnyjZoILk78rLFTUxTNnj3gNslGqo 4 348 0 0
+/.well-known/acme-challenge/I8-mPE8zBKSElkfLF5Lu9OfbI3mJvh4b3hIejUwPl4M 4 348 0 0
+/.well-known/acme-challenge/PygduDJaDcWiHdd__xpGvlrTULsBmJhX37d4AN9yy1w 4 348 0 0
+/.well-known/acme-challenge/4-5pr_M3M2bIcQx03Hfj1KHixuEIFcjwS-rajq12hMo 4 348 0 1
+/.well-known/acme-challenge/vTwkidgua-gy_bXyHrKjlwlHBA-44Ipdcu0vHnbWlQM 4 348 0 0
+/.well-known/acme-challenge/RFsbWgAGZNOC7sifeA94vauqtpogon3QT-4Zivqc5iM 4 348 0 0
+/.well-known/acme-challenge/0HTMsV61YOXQsy7YMUcDCv1-dRpnPnuUB_ne22_7-v8 4 348 1 2
+/.well-known/acme-challenge/MQSGp4I2E3OcBh4Oo8vtYmdKwpfP2s1QwLocP8Dbn5k 4 348 3 1
+/.well-known/acme-challenge/_F4p8ZV8Ybj_5_oe0ItmR9-X_TxHfzMWEEbPhHylvv8 4 348 2 3
+/.well-known/acme-challenge/C0WQR_0DOFY6K4TF728EO30FFCHIRU8T 1 64 0 0
+/.well-known/acme-challenge/TE1YFSDA-G887HGN7H866NSRF2QOPQTG 1 64 0 0
+/contact/ 1 58645 1 1
+/.well-known/acme-challenge/AM7H1WX5JLEBTDN9V_A5XEXEUHC9-S7W 1 64 0 0
+/wp-admin/install.php 1 520 1 1
+/wp-json/wp/v2/users 1 270 1 1
+/.well-known/acme-challenge/U0_NJMUCC-H5ASVCV4BKPQI_TI7N_GGR 1 64 0 0
+/.well-known/acme-challenge/PBF5HMQZYHCDU9_1U_MIL2W8A-UTJW-I 1 64 0 0
+/.well-known/acme-challenge/BDIHW5ZHAGV-7VNPBDO38ZZBY_0B7LTK 1 64 0 0
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 1 30064 0 0
+/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2 1 75728 0 0
+//wp-json/wp/v2/users/ 1 270 0 1
+/.well-known/acme-challenge/W7133L2TTY3PUFKTOY6QS_B0C-1FVB8F 1 64 0 0
+/shop 1 14642 0 0
+/.well-known/acme-challenge/UFZ0V84WCR-LEW5YTJSRK80LLHBGPCI_ 1 64 1 0
+/.well-known/acme-challenge/LQCNN9L5NUQQKG1OYQDMUMO66N2-TON0 1 64 0 0
+END_SIDER

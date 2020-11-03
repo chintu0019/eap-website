@@ -1,0 +1,57 @@
+Return-Path: <explo6kl@sh004.bigrock.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id ao30CwjiN1/pYgUA39JRmg
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	for <admin@exploreautoparts.com>; Sat, 15 Aug 2020 13:24:24 +0000
+Return-path: <explo6kl@sh004.bigrock.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Sat, 15 Aug 2020 13:24:24 +0000
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1k6wAa-001TpU-40
+	for admin@exploreautoparts.com; Sat, 15 Aug 2020 13:24:24 +0000
+To: admin@exploreautoparts.com
+Subject: Ninja Forms Submission
+X-PHP-Script: exploreautoparts.com/wp-admin/admin-ajax.php for 112.133.236.106
+X-PHP-Originating-Script: 1202:PHPMailer.php
+Date: Sat, 15 Aug 2020 13:24:24 +0000
+From: Explore Auto Parts <admin@exploreautoparts.com>
+Message-ID: <YQyr2KSrCqfrTIhPQfrfhwSfst72yJ7rEc9wviuBLrc@exploreautoparts.com>
+X-Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+X-Ninja-Forms: ninja-forms
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<table>
+<tr>
+<td valign="top">Full Name:</td>
+<td>Yadhunandan</td>
+</tr>
+<tr>
+<td valign="top">Address:</td>
+<td>#213 shree venkata sai krupa shree nagar q</td>
+</tr>
+<tr>
+<td valign="top">Email:</td>
+<td>yn19702@gmail.com</td>
+</tr>
+<tr>
+<td valign="top">Phone Number:</td>
+<td>1</td>
+</tr>
+<tr>
+<td valign="top">US States:</td>
+<td>VA</td>
+</tr>
+<tr>
+<td valign="top">Zip:</td>
+<td>563114</td>
+</tr>
+<tr>
+<td valign="top">Paragraph Text:</td>
+<td>I need a car bumper for my hyundai accent</td>
+</tr>
+</table>
+

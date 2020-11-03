@@ -1,0 +1,69 @@
+Return-Path: <explo6kl@sh004.bigrock.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id iJ0QOODvO1/KkwcA39JRmg
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	for <admin@exploreautoparts.com>; Tue, 18 Aug 2020 15:12:32 +0000
+Return-path: <explo6kl@sh004.bigrock.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Tue, 18 Aug 2020 15:12:32 +0000
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1k83Hs-0025Bm-S8
+	for admin@exploreautoparts.com; Tue, 18 Aug 2020 15:12:32 +0000
+To: admin@exploreautoparts.com
+Subject: Ninja Forms Submission
+X-PHP-Script: exploreautoparts.com/wp-admin/admin-ajax.php for 116.75.79.37
+X-PHP-Originating-Script: 1202:PHPMailer.php
+Date: Tue, 18 Aug 2020 15:12:32 +0000
+From: Explore Auto Parts <admin@exploreautoparts.com>
+Message-ID: <o3saiYvXu4QZdp88QRkFLcFDLWFNFYYzSS2QKa0vk@exploreautoparts.com>
+X-Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+X-Ninja-Forms: ninja-forms
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<table>
+<tr>
+<td valign="top">Full Name:</td>
+<td>BEN</td>
+</tr>
+<tr>
+<td valign="top">Address:</td>
+<td>taylor</td>
+</tr>
+<tr>
+<td valign="top">Email:</td>
+<td>green.vignesh@gmail.com</td>
+</tr>
+<tr>
+<td valign="top">Enter your phone number :</td>
+<td>18668884444</td>
+</tr>
+<tr>
+<td valign="top">US States:</td>
+<td>IL</td>
+</tr>
+<tr>
+<td valign="top">Zip:</td>
+<td>60618</td>
+</tr>
+<tr>
+<td valign="top">Year :</td>
+<td>2005</td>
+</tr>
+<tr>
+<td valign="top">Make:</td>
+<td>Toyota</td>
+</tr>
+<tr>
+<td valign="top">Model:</td>
+<td>Camry</td>
+</tr>
+<tr>
+<td valign="top">Enter your car requirement:</td>
+<td>Spindle</td>
+</tr>
+</table>
+

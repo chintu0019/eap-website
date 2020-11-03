@@ -1,0 +1,35 @@
+Return-Path: <explo6kl@sh004.bigrock.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id UM4oO2FRm19bIwcA39JRmg
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	for <admin@exploreautoparts.com>; Thu, 29 Oct 2020 23:33:53 +0000
+Return-path: <explo6kl@sh004.bigrock.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Thu, 29 Oct 2020 23:33:54 +0000
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1kYHQX-001xwg-TX
+	for admin@exploreautoparts.com; Thu, 29 Oct 2020 23:33:53 +0000
+To: admin@exploreautoparts.com
+Subject: =?us-ascii?Q?[Explore_Auto_Parts]_Your_site_has_updated_to_W?=  =?us-ascii?Q?ordPress_5.5.2?=
+X-PHP-Script: exploreautoparts.com/wp-cron.php for 162.241.85.217
+X-PHP-Originating-Script: 1202:PHPMailer.php
+Date: Thu, 29 Oct 2020 23:33:53 +0000
+From: WordPress <wordpress@exploreautoparts.com>
+Message-ID: <IwjjXmcGz3xulEhAt1GWhc6eA3I96XcJZdrRDYfsiI@exploreautoparts.com>
+X-Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy! Your site at https://exploreautoparts.com has been updated automatically to WordPress 5.5.2.
+
+No further action is needed on your part. For more on version 5.5.2, see the About WordPress screen:
+https://exploreautoparts.com/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/forums/
+
+The WordPress Team
+

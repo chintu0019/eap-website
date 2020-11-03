@@ -1,0 +1,41 @@
+Return-Path: <explo6kl@sh004.bigrock.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id gNhoG2VDkV+QuAUA39JRmg
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	for <admin@exploreautoparts.com>; Thu, 22 Oct 2020 08:31:33 +0000
+Return-path: <explo6kl@sh004.bigrock.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Thu, 22 Oct 2020 08:31:33 +0000
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1kVW0T-001at2-CG
+	for admin@exploreautoparts.com; Thu, 22 Oct 2020 08:31:33 +0000
+To: admin@exploreautoparts.com
+Subject: Ninja Forms Submission
+X-PHP-Script: exploreautoparts.com/wp-admin/admin-ajax.php for 223.237.178.233
+X-PHP-Originating-Script: 1202:PHPMailer.php
+Date: Thu, 22 Oct 2020 08:31:33 +0000
+From: "admin@exploreautoparts.com" <admin@exploreautoparts.com>
+Message-ID: <GRQ9ooy3d3qcen5hP2tJpgutfuZ6Fd4omXyQDjsR3Ao@exploreautoparts.com>
+X-Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+X-Ninja-Forms: ninja-forms
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<table>
+<tr>
+<td valign="top">Car Part:</td>
+<td>A Pillar</td>
+</tr>
+<tr>
+<td valign="top">Make and Model:</td>
+<td>AMC Ambassador</td>
+</tr>
+<tr>
+<td valign="top">Year:</td>
+<td>1930</td>
+</tr>
+</table>
+

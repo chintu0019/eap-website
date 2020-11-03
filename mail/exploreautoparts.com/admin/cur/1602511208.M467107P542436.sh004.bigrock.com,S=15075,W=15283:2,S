@@ -1,0 +1,208 @@
+Return-Path: <explo6kl@sh004.bigrock.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id mCfzGmhhhF/kRggA39JRmg
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	for <admin@exploreautoparts.com>; Mon, 12 Oct 2020 14:00:08 +0000
+Return-path: <explo6kl@sh004.bigrock.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Mon, 12 Oct 2020 14:00:08 +0000
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1kRyMy-002I0U-AK
+	for admin@exploreautoparts.com; Mon, 12 Oct 2020 14:00:08 +0000
+To: admin@exploreautoparts.com
+Subject: WPForms Summary
+X-PHP-Script: exploreautoparts.com/wp-cron.php for 162.241.85.217
+X-PHP-Originating-Script: 1202:PHPMailer.php
+Date: Mon, 12 Oct 2020 14:00:08 +0000
+From: Explore Auto Parts <admin@exploreautoparts.com>
+Reply-To: admin@exploreautoparts.com
+Message-ID: <3SCbZ2JITBvlGIquRri9LxbxsIinit7TteDW3hne5Pg@exploreautoparts.com>
+X-Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html lang=3D"en">=0A<head>=0A=09<meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8">=0A=09<meta http-equiv=3D"=
+X-UA-Compatible" content=3D"IE=3Dedge">=0A=09<meta name=3D"viewport" conten=
+t=3D"width=3Ddevice-width">=0A=09<title>WPForms</title>=0A<style type=3D"te=
+xt/css">a {=0A  text-decoration: none;=0A}=0A=0A@media only screen and (max=
+-width: 599px) {=0A  table.body .container {=0A    width: 95% !important;=
+=0A  }=0A  .header {=0A    padding: 15px 15px 12px 15px !important;=0A  }=
+=0A  .header img {=0A    width: 200px !important;=0A    height: auto !impor=
+tant;=0A  }=0A  .content,=0A  .aside {=0A    padding: 30px 40px 20px 40px !=
+important;=0A  }=0A  .upsell-pro table.features td {=0A    width: 100% !imp=
+ortant;=0A    display: block !important;=0A  }=0A  table.receipt-details td=
+.receipt-details-inner {=0A    padding: 30px 0px 20px 0px !important;=0A  }=
+=0A}=0A=0A/*# sourceMappingURL=3Ddata:application/json;charset=3Dutf8;base6=
+4,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXNzZXRzL2Nzcy9lbWFpbHMvcGFydGlhbHMvbWVkaWFfc=
+XVlcmllcy5jc3MiLCJzb3VyY2VzIjpbImFzc2V0cy9zY3NzL2VtYWlscy9wYXJ0aWFscy9tZWRp=
+YV9xdWVyaWVzLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiYSB7XG5cdHRleHQtZGVjb3JhdGl=
+vbjogbm9uZTsgLy8gVGhpcyBvbmUgaXMgbmVlZGVkIGZvciBPdXRsb29rIGNvbXBhdGliaWxpdH=
+kuXG59XG5cbkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNTk5cHgpIHtcblxuX=
+HR0YWJsZS5ib2R5IC5jb250YWluZXIge1xuXHRcdHdpZHRoOiA5NSUgIWltcG9ydGFudDtcblx0=
+fVxuXG5cdC5oZWFkZXIge1xuXHRcdHBhZGRpbmc6IDE1cHggMTVweCAxMnB4IDE1cHggIWltcG9=
+ydGFudDtcblx0fVxuXG5cdC5oZWFkZXIgaW1nIHtcblx0XHR3aWR0aDogMjAwcHggIWltcG9ydG=
+FudDtcblx0XHRoZWlnaHQ6IGF1dG8gIWltcG9ydGFudDtcblx0fVxuXG5cdC5jb250ZW50LFxuX=
+HQuYXNpZGUge1xuXHRcdHBhZGRpbmc6IDMwcHggNDBweCAyMHB4IDQwcHggIWltcG9ydGFudDtc=
+blx0fVxuXG5cdC51cHNlbGwtcHJvIHRhYmxlLmZlYXR1cmVzIHRkIHtcblx0XHR3aWR0aDogMTA=
+wJSAhaW1wb3J0YW50O1xuXHRcdGRpc3BsYXk6IGJsb2NrICFpbXBvcnRhbnQ7XG5cdH1cblxuXH=
+R0YWJsZS5yZWNlaXB0LWRldGFpbHMgdGQucmVjZWlwdC1kZXRhaWxzLWlubmVyIHtcblx0XHRwY=
+WRkaW5nOiAzMHB4IDBweCAyMHB4IDBweCAhaW1wb3J0YW50O1xuXHR9XG59Il0sIm5hbWVzIjpb=
+XSwibWFwcGluZ3MiOiJBQUFBLEFBQUEsQ0FBQyxDQUFDO0VBQ0QsZUFBZSxFQUFFLElBQUk7Q0F=
+DckI7O0FBRUQsTUFBTSxNQUFNLE1BQU0sTUFBTSxTQUFTLEVBQUUsS0FBSztFQUV2QyxBQUFBLE=
+tBQUssQUFBQSxLQUFLLENBQUMsVUFBVSxDQUFDO0lBQ3JCLEtBQUssRUFBRSxjQUFjO0dBQ3JCO=
+0VBRUQsQUFBQSxPQUFPLENBQUM7SUFDUCxPQUFPLEVBQUUsOEJBQThCO0dBQ3ZDO0VBRUQsQUFB=
+QSxPQUFPLENBQUMsR0FBRyxDQUFDO0lBQ1gsS0FBSyxFQUFFLGdCQUFnQjtJQUN2QixNQUFNLEV=
+BQUUsZUFBZTtHQUN2QjtFQUVELEFBQUEsUUFBUTtFQUNSLE1BQU0sQ0FBQztJQUNOLE9BQU8sRU=
+FBRSw4QkFBOEI7R0FDdkM7RUFFRCxBQUFBLFdBQVcsQ0FBQyxLQUFLLEFBQUEsU0FBUyxDQUFDL=
+EVBQUUsQ0FBQztJQUM3QixLQUFLLEVBQUUsZUFBZTtJQUN0QixPQUFPLEVBQUUsZ0JBQWdCO0dB=
+Q3pCO0VBRUQsQUFBQSxLQUFLLEFBQUEsZ0JBQWdCLENBQUMsRUFBRSxBQUFBLHNCQUFzQixDQUF=
+DO0lBQzlDLE9BQU8sRUFBRSw0QkFBNEI7R0FDckMifQ=3D=3D */=0A</style>=0A</head>=
+=0A<body style=3D"height: 100% !important; width: 100% !important; min-widt=
+h: 100%; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-s=
+izing: border-box; -webkit-font-smoothing: antialiased !important; -moz-osx=
+-font-smoothing: grayscale !important; -ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%; color: #444444; font-family: 'Helvetica Neue', Helv=
+etica, Arial, sans-serif; font-weight: normal; padding: 0; margin: 0; Margi=
+n: 0; font-size: 14px; mso-line-height-rule: exactly; line-height: 140%; te=
+xt-align: center; background-color: #e9eaec;">=0A<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" height=3D"100%" class=3D"body"=
+ style=3D"border-collapse: collapse; border-spacing: 0; vertical-align: top=
+; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; height: 100% !important; width: 100% !impo=
+rtant; min-width: 100%; -moz-box-sizing: border-box; -webkit-box-sizing: bo=
+rder-box; box-sizing: border-box; -webkit-font-smoothing: antialiased !impo=
+rtant; -moz-osx-font-smoothing: grayscale !important; background-color: #e9=
+eaec; color: #444444; font-family: 'Helvetica Neue', Helvetica, Arial, sans=
+-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; text-align: =
+left; font-size: 14px; mso-line-height-rule: exactly; line-height: 140%;">=
+=0A=09<tr style=3D"padding: 0; vertical-align: top; text-align: left;">=0A=
+=09=09<td align=3D"center" valign=3D"top" class=3D"body-inner" style=3D"wor=
+d-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: aut=
+o; border-collapse: collapse !important; vertical-align: top; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-s=
+ize-adjust: 100%; color: #444444; font-family: 'Helvetica Neue', Helvetica,=
+ Arial, sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; =
+font-size: 14px; mso-line-height-rule: exactly; line-height: 140%; text-ali=
+gn: center;">=0A=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0; padding: 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; widt=
+h: 600px; margin: 0 auto 0 auto; Margin: 0 auto 0 auto; text-align: inherit=
+;">=0A=09=09=09=09<tr style=3D"padding: 0; vertical-align: top; text-align:=
+ left;">=0A=09=09=09=09=09<td align=3D"center" valign=3D"middle" class=3D"h=
+eader" style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens:=
+ auto; hyphens: auto; border-collapse: collapse !important; vertical-align:=
+ top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; color: #444444; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, sans-serif; font-weight: normal; margin: 0; Marg=
+in: 0; font-size: 14px; mso-line-height-rule: exactly; line-height: 140%; t=
+ext-align: center; padding: 30px 30px 22px 30px;">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<img src=3D"https://exploreautoparts.com/wp-content/plugi=
+ns/wpforms-lite/assets/images/logo.png" width=3D"250" alt=3D"Explore Auto P=
+arts" style=3D"outline: none; text-decoration: none; width: auto; clear: bo=
+th; -ms-interpolation-mode: bicubic; display: inline-block !important; max-=
+width: 45%;">=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09</tr>=
+=0A=09=09=09=09<tr style=3D"padding: 0; vertical-align: top; text-align: le=
+ft;">=0A=09=09=09=09=09<td align=3D"left" valign=3D"top" class=3D"content" =
+style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; =
+hyphens: auto; border-collapse: collapse !important; vertical-align: top; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; color: #444444; font-family: 'Helvetica Neue'=
+, Helvetica, Arial, sans-serif; font-weight: normal; margin: 0; Margin: 0; =
+text-align: left; font-size: 14px; mso-line-height-rule: exactly; line-heig=
+ht: 140%; background-color: #ffffff; padding: 60px 75px 45px 75px; border-t=
+op: 3px solid #e27730; border-right: 1px solid #dddddd; border-bottom: 1px =
+solid #dddddd; border-left: 1px solid #dddddd;">=0A=0A<table class=3D"summa=
+ry-container" style=3D"border-collapse: collapse; border-spacing: 0; paddin=
+g: 0; vertical-align: top; text-align: left; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ width: 100%;">=0A=09<tbody>=0A=09<tr style=3D"padding: 0; vertical-align: =
+top; text-align: left;">=0A=09=09<td style=3D"word-wrap: break-word; -webki=
+t-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collap=
+se !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-fam=
+ily: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: normal; p=
+adding: 0; margin: 0; Margin: 0; text-align: left; font-size: 14px; mso-lin=
+e-height-rule: exactly; line-height: 140%; color: #777777;">=0A=09=09=09<h6=
+ class=3D"greeting" style=3D"padding: 0; text-align: left; word-wrap: norma=
+l; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight=
+: bold; mso-line-height-rule: exactly; line-height: 130%; font-size: 18px; =
+color: #444444; margin: 0 0 3px 0; Margin: 0 0 3px 0;">Hi there!</h6>=0A=09=
+=09=09=09=09=09=09<p class=3D"large" style=3D"-ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; font-weight: normal; padding: 0; text-align: left; mso-lin=
+e-height-rule: exactly; line-height: 140%; margin: 0 0 15px 0; Margin: 0 0 =
+15px 0; font-size: 16px; color: #777777;">Let=E2=80=99s see how your forms =
+performed.</p>=0A=09=09=09=09<p class=3D"lite-disclaimer" style=3D"-ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica=
+ Neue', Helvetica, Arial, sans-serif; font-weight: normal; padding: 0; text=
+-align: left; mso-line-height-rule: exactly; line-height: 140%; color: #777=
+777; font-size: 14px; margin: 25px 0 25px 0; Margin: 25px 0 25px 0;">=0A=09=
+=09=09=09=09Below is the total number of submissions for each form, however=
+ actual entries are not stored in WPForms Lite. To generate detailed report=
+s and view future entries inside your WordPress dashboard, consider upgradi=
+ng to Pro.=09=09=09=09</p>=0A=09=09=09=09=09=09<table class=3D"email-summar=
+ies" style=3D"border-collapse: collapse; border-spacing: 0; padding: 0; ver=
+tical-align: top; text-align: left; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 1=
+00%; margin: 38px 0 0 0; Margin: 38px 0 0 0;">=0A=09=09=09=09<thead>=0A=09=
+=09=09=09<tr style=3D"padding: 0; vertical-align: top; text-align: left;">=
+=0A=09=09=09=09=09<th style=3D"font-family: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; margin: 0; Margin: 0; text-align: left; font-size: 14px; m=
+so-line-height-rule: exactly; line-height: 140%; font-weight: 700; color: #=
+777777; background: #f1f1f1; border: 1px solid #f1f1f1; padding: 17px 20px =
+17px 20px;">Form</th>=0A=09=09=09=09=09<th class=3D"entries-column text-cen=
+ter" style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; =
+margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; line-=
+height: 140%; text-align: center; font-weight: 700; color: #777777; backgro=
+und: #f1f1f1; border: 1px solid #f1f1f1; padding: 17px 20px 17px 20px; widt=
+h: 1px; white-space: nowrap;">Entries</th>=0A=09=09=09=09</tr>=0A=09=09=09=
+=09</thead>=0A=09=09=09=09<tbody>=0A=0A=09=09=09=09=09=09=09=09=09<tr style=
+=3D"padding: 0; vertical-align: top; text-align: left;">=0A=09=09=09=09=09=
+=09<td class=3D"text-large" style=3D"word-wrap: break-word; -webkit-hyphens=
+: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !impor=
+tant; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -m=
+s-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif; font-weight: normal; margin: 0;=
+ Margin: 0; text-align: left; mso-line-height-rule: exactly; line-height: 1=
+40%; font-size: 16px; border-top: none; border-right: none; border-bottom: =
+1px solid #f1f1f1; border-left: none; color: #444444; padding: 17px 20px 17=
+px 20px;">Contact Us</td>=0A=09=09=09=09=09=09<td class=3D"entry-count text=
+-large" style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens=
+: auto; hyphens: auto; border-collapse: collapse !important; vertical-align=
+: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetica Neue', Helvet=
+ica, Arial, sans-serif; font-weight: normal; margin: 0; Margin: 0; mso-line=
+-height-rule: exactly; line-height: 140%; font-size: 16px; border-top: none=
+; border-right: none; border-bottom: 1px solid #f1f1f1; border-left: none; =
+padding: 17px 20px 17px 20px; text-align: center; color: #e27730;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #e27730; te=
+xt-align: center;">=0A=09=09=09=09=09=09=09=09=092=09=09=09=09=09=09=09=09<=
+/span>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr=
+>=0A=09=09=09=09=0A=09=09=09=09=0A=09=09=09=09</tbody>=0A=09=09=09</table>=
+=0A=0A=0A=09=09=09=09=09</td>=0A=09</tr>=0A=09</tbody>=0A</table>=0A=0A=09=
+=09=09=09=09</td>=0A=09=09=09=09</tr>=0A=09=09=09=09<tr style=3D"padding: 0=
+; vertical-align: top; text-align: left;">=0A=09=09=09=09=09<td align=3D"ce=
+nter" valign=3D"top" class=3D"footer" style=3D"word-wrap: break-word; -webk=
+it-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: colla=
+pse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-fa=
+mily: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: normal; =
+margin: 0; Margin: 0; mso-line-height-rule: exactly; line-height: 140%; pad=
+ding: 30px; color: #72777c; font-size: 12px; text-align: center;">=0A=09=09=
+=09=09=09=09This email was auto-generated and sent from <a style=3D"-ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, sans-serif; font-weight: normal; padding: 0; mar=
+gin: 0; Margin: 0; text-align: left; mso-line-height-rule: exactly; line-he=
+ight: 140%; color: #72777c; text-decoration: underline;">Explore Auto Parts=
+</a>. Learn <a style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjus=
+t: 100%; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-=
+weight: normal; padding: 0; margin: 0; Margin: 0; text-align: left; mso-lin=
+e-height-rule: exactly; line-height: 140%; color: #72777c; text-decoration:=
+ underline;">how to disable</a>=09=09=09=09=09</td>=0A=09=09=09=09</tr>=0A=
+=09=09=09</table>=0A=09=09</td>=0A=09</tr>=0A</table>=0A</body>=0A</html>

@@ -1,0 +1,78 @@
+Return-Path: <>
+Delivered-To: explo6kl@sh004.bigrock.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id YSWHI7mXJl9q9AcA39JRmg
+	(envelope-from <>)
+	for <explo6kl@sh004.bigrock.com>; Sun, 02 Aug 2020 10:38:49 +0000
+Return-path: <>
+Envelope-to: explo6kl@sh004.bigrock.com
+Delivery-date: Sun, 02 Aug 2020 10:38:49 +0000
+Received: from mailnull by sh004.bigrock.com with local (Exim 4.93)
+	id 1k2BOD-002BcL-Hb
+	for explo6kl@sh004.bigrock.com; Sun, 02 Aug 2020 10:38:49 +0000
+X-Failed-Recipients: admin@exploreautoparts.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sh004.bigrock.com>
+To: explo6kl@sh004.bigrock.com
+References: <d111fec8c21b09fe716e1d90be2c45c4@exploreautoparts.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1596364729-eximdsn-832918796
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1k2BOD-002BcL-Hb@sh004.bigrock.com>
+Date: Sun, 02 Aug 2020 10:38:49 +0000
+
+--1596364729-eximdsn-832918796
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@exploreautoparts.com
+    No Such User Here
+
+--1596364729-eximdsn-832918796
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sh004.bigrock.com
+
+Action: failed
+Final-Recipient: rfc822;admin@exploreautoparts.com
+Status: 5.0.0
+
+--1596364729-eximdsn-832918796
+Content-type: message/rfc822
+
+Return-path: <explo6kl@sh004.bigrock.com>
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1k2BOD-002BcH-FF
+	for admin@exploreautoparts.com; Sun, 02 Aug 2020 10:38:49 +0000
+To: admin@exploreautoparts.com
+Subject: [Explore Auto Parts] Password Changed
+X-PHP-Script: exploreautoparts.com/wp-admin/profile.php for 117.192.74.176
+X-PHP-Originating-Script: 1202:class-phpmailer.php
+Date: Sun, 2 Aug 2020 10:38:49 +0000
+From: WordPress <wordpress@exploreautoparts.com>
+Message-ID: <d111fec8c21b09fe716e1d90be2c45c4@exploreautoparts.com>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi admin,
+
+This notice confirms that your password was changed on Explore Auto Parts.
+
+If you did not change your password, please contact the Site Administrator at
+admin@exploreautoparts.com
+
+This email has been sent to admin@exploreautoparts.com
+
+Regards,
+All at Explore Auto Parts
+https://exploreautoparts.com
+
+
+--1596364729-eximdsn-832918796--

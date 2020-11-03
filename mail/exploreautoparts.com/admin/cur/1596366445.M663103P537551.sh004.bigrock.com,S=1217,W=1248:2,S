@@ -1,0 +1,31 @@
+Return-Path: <explo6kl@sh004.bigrock.com>
+Delivered-To: admin@exploreautoparts.com
+Received: from sh004.bigrock.com
+	by sh004.bigrock.com with LMTP
+	id UwFuJ22eJl/PMwgA39JRmg
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	for <admin@exploreautoparts.com>; Sun, 02 Aug 2020 11:07:25 +0000
+Return-path: <explo6kl@sh004.bigrock.com>
+Envelope-to: admin@exploreautoparts.com
+Delivery-date: Sun, 02 Aug 2020 11:07:25 +0000
+Received: from explo6kl by sh004.bigrock.com with local (Exim 4.93)
+	(envelope-from <explo6kl@sh004.bigrock.com>)
+	id 1k2Bpt-002Fq5-Ir
+	for admin@exploreautoparts.com; Sun, 02 Aug 2020 11:07:25 +0000
+To: admin@exploreautoparts.com
+Subject: [Explore Auto Parts] New User Registration
+X-PHP-Script: exploreautoparts.com/wp-admin/user-new.php for 117.192.74.176
+X-PHP-Originating-Script: 1202:class-phpmailer.php
+Date: Sun, 2 Aug 2020 11:07:25 +0000
+From: WordPress <wordpress@exploreautoparts.com>
+Message-ID: <019cfb03c86d4541a18bcf6d2e22971f@exploreautoparts.com>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+New user registration on your site Explore Auto Parts:
+
+Username: developer
+
+Email: developer.eap@gmail.com
+
