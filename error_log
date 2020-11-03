@@ -1,0 +1,9 @@
+[23-Oct-2020 14:19:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ElementorPro\Modules\Forms\Widgets\Form' not found in /home1/explo6kl/public_html/wp-content/plugins/multi-step-forms-free-for-elementor/widgets/multistep_free.php:27
+Stack trace:
+#0 /home1/explo6kl/public_html/wp-content/plugins/multi-step-forms-free-for-elementor/includes/class-multi-step-forms-free.php(357): require_once()
+#1 /home1/explo6kl/public_html/wp-includes/class-wp-hook.php(287): ElementorMultistepFree\Multi_Step_Forms_Free->register_widgets(Object(Elementor\Widgets_Manager))
+#2 /home1/explo6kl/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home1/explo6kl/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home1/explo6kl/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(99): do_action('elementor/widge...', Object(Elementor\Widgets_Manager))
+#5 /home1/explo6kl/public_html/wp-content/plugins/elementor/includes/managers/widgets.php(235): Elementor\Widgets_Manager->init_widgets()
+#6 /home1/explo6kl/pu in /home1/explo6kl/public_html/wp-content/plugins/multi-step-forms-free-for-elementor/widgets/multistep_free.php on line 27
