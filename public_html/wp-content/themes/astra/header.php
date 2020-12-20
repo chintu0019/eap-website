@@ -25,6 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <?php wp_head(); ?>
 <?php astra_head_bottom(); ?>
+<meta name="google-site-verification" content="u7vkZvSIVn2TpllODgAEKIqWJSXlOAkzXc4i9Pvzxdo" />
 </head>
 
 <body <?php astra_schema_body(); ?> <?php body_class(); ?>>
